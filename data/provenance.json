@@ -1,0 +1,2681 @@
+{
+  "source": "Memory455/TrendRadar3; bobkingdom/TrendRadar; Jzoooooon/TrendRadar",
+  "platform": "bilibili-hot-search",
+  "mode": "第三方2026年10月真实历史归档，非本人采集；多源采样时刻不规则",
+  "files": [
+    {
+      "url": "https://raw.githubusercontent.com/Memory455/TrendRadar3/master/output/2026%E5%B9%B410%E6%9C%8803%E6%97%A5/txt/04%E6%97%B633%E5%88%86.txt",
+      "sha": "f08eaf12092b70722e7ceb311872070f3e3dd6a3",
+      "time": "2026-10-03T04:33:00+08:00",
+      "count": 30
+    },
+    {
+      "url": "https://raw.githubusercontent.com/Memory455/TrendRadar3/master/output/2026%E5%B9%B410%E6%9C%8803%E6%97%A5/txt/08%E6%97%B618%E5%88%86.txt",
+      "sha": "8cb241b46a7591845b050dd5a51d6600c9ef2ca9",
+      "time": "2026-10-03T08:18:00+08:00",
+      "count": 30
+    },
+    {
+      "url": "https://raw.githubusercontent.com/Memory455/TrendRadar3/master/output/2026%E5%B9%B410%E6%9C%8803%E6%97%A5/txt/14%E6%97%B615%E5%88%86.txt",
+      "sha": "806268be988875688f373d373cf1f311a952554c",
+      "time": "2026-10-03T14:15:00+08:00",
+      "count": 30
+    },
+    {
+      "url": "https://raw.githubusercontent.com/Memory455/TrendRadar3/master/output/2026%E5%B9%B410%E6%9C%8803%E6%97%A5/txt/20%E6%97%B622%E5%88%86.txt",
+      "sha": "7eaf07daaa8a598807b9b3a50b6271af58057675",
+      "time": "2026-10-03T20:22:00+08:00",
+      "count": 30
+    },
+    {
+      "url": "https://raw.githubusercontent.com/Memory455/TrendRadar3/master/output/2026%E5%B9%B410%E6%9C%8802%E6%97%A5/txt/00%E6%97%B659%E5%88%86.txt",
+      "sha": "4ec5a0c1c9f85d32c07cfdfc4c7cbd46098ff69e",
+      "time": "2026-10-02T00:59:00+08:00",
+      "count": 30
+    },
+    {
+      "url": "https://raw.githubusercontent.com/Memory455/TrendRadar3/master/output/2026%E5%B9%B410%E6%9C%8802%E6%97%A5/txt/05%E6%97%B646%E5%88%86.txt",
+      "sha": "7a849d319e6636982fcad566a0dc099bf92774c6",
+      "time": "2026-10-02T05:46:00+08:00",
+      "count": 30
+    },
+    {
+      "url": "https://raw.githubusercontent.com/Memory455/TrendRadar3/master/output/2026%E5%B9%B410%E6%9C%8802%E6%97%A5/txt/09%E6%97%B628%E5%88%86.txt",
+      "sha": "f805aff7c574b09de5b1cbc7608179622a6af80c",
+      "time": "2026-10-02T09:28:00+08:00",
+      "count": 30
+    },
+    {
+      "url": "https://raw.githubusercontent.com/Memory455/TrendRadar3/master/output/2026%E5%B9%B410%E6%9C%8802%E6%97%A5/txt/16%E6%97%B614%E5%88%86.txt",
+      "sha": "251b847bf8cf43841b746d04245aadb9181101af",
+      "time": "2026-10-02T16:14:00+08:00",
+      "count": 30
+    },
+    {
+      "url": "https://raw.githubusercontent.com/Memory455/TrendRadar3/master/output/2026%E5%B9%B410%E6%9C%8802%E6%97%A5/txt/23%E6%97%B636%E5%88%86.txt",
+      "sha": "127d5e200aa50ab334859d5043f669215462832b",
+      "time": "2026-10-02T23:36:00+08:00",
+      "count": 30
+    },
+    {
+      "url": "https://raw.githubusercontent.com/Memory455/TrendRadar3/master/output/2026%E5%B9%B410%E6%9C%8806%E6%97%A5/txt/06%E6%97%B626%E5%88%86.txt",
+      "sha": "afd5327cebdda886b43efba1594416b96db76687",
+      "time": "2026-10-06T06:26:00+08:00",
+      "count": 30
+    },
+    {
+      "url": "https://raw.githubusercontent.com/Memory455/TrendRadar3/master/output/2026%E5%B9%B410%E6%9C%8806%E6%97%A5/txt/10%E6%97%B648%E5%88%86.txt",
+      "sha": "be3044045562596bce2c3d4f2af54784d3e7192e",
+      "time": "2026-10-06T10:48:00+08:00",
+      "count": 30
+    },
+    {
+      "url": "https://raw.githubusercontent.com/Memory455/TrendRadar3/master/output/2026%E5%B9%B410%E6%9C%8806%E6%97%A5/txt/17%E6%97%B658%E5%88%86.txt",
+      "sha": "ce9fe823ce8a4323aa019921bfe1bb6580fbd52c",
+      "time": "2026-10-06T17:58:00+08:00",
+      "count": 30
+    },
+    {
+      "url": "https://raw.githubusercontent.com/Memory455/TrendRadar3/master/output/2026%E5%B9%B410%E6%9C%8801%E6%97%A5/txt/03%E6%97%B600%E5%88%86.txt",
+      "sha": "6bee8dcd24cd7079bedc644405990dc1180155e8",
+      "time": "2026-10-01T03:00:00+08:00",
+      "count": 30
+    },
+    {
+      "url": "https://raw.githubusercontent.com/Memory455/TrendRadar3/master/output/2026%E5%B9%B410%E6%9C%8801%E6%97%A5/txt/06%E6%97%B657%E5%88%86.txt",
+      "sha": "2fc150a7521d1982639c7b438d17096745bb55ab",
+      "time": "2026-10-01T06:57:00+08:00",
+      "count": 30
+    },
+    {
+      "url": "https://raw.githubusercontent.com/Memory455/TrendRadar3/master/output/2026%E5%B9%B410%E6%9C%8801%E6%97%A5/txt/10%E6%97%B601%E5%88%86.txt",
+      "sha": "2432c170c9904a1b4c2751ea0d14562608912488",
+      "time": "2026-10-01T10:01:00+08:00",
+      "count": 30
+    },
+    {
+      "url": "https://raw.githubusercontent.com/Memory455/TrendRadar3/master/output/2026%E5%B9%B410%E6%9C%8801%E6%97%A5/txt/17%E6%97%B656%E5%88%86.txt",
+      "sha": "41a0dd745d6cce72180abb905de818dc19ba1ff0",
+      "time": "2026-10-01T17:56:00+08:00",
+      "count": 30
+    },
+    {
+      "url": "https://raw.githubusercontent.com/Memory455/TrendRadar3/master/output/2026%E5%B9%B410%E6%9C%8804%E6%97%A5/txt/01%E6%97%B607%E5%88%86.txt",
+      "sha": "996f2a52965f4bf524f5cd78f18d7d027ae875a3",
+      "time": "2026-10-04T01:07:00+08:00",
+      "count": 30
+    },
+    {
+      "url": "https://raw.githubusercontent.com/Memory455/TrendRadar3/master/output/2026%E5%B9%B410%E6%9C%8804%E6%97%A5/txt/04%E6%97%B651%E5%88%86.txt",
+      "sha": "e3509e485e88409e6e0b3cb9d79aa08cf78369d0",
+      "time": "2026-10-04T04:51:00+08:00",
+      "count": 30
+    },
+    {
+      "url": "https://raw.githubusercontent.com/Memory455/TrendRadar3/master/output/2026%E5%B9%B410%E6%9C%8804%E6%97%A5/txt/07%E6%97%B640%E5%88%86.txt",
+      "sha": "d5020221b6ec915e355e75cf9f9a3c25242b47e4",
+      "time": "2026-10-04T07:40:00+08:00",
+      "count": 30
+    },
+    {
+      "url": "https://raw.githubusercontent.com/Memory455/TrendRadar3/master/output/2026%E5%B9%B410%E6%9C%8804%E6%97%A5/txt/13%E6%97%B616%E5%88%86.txt",
+      "sha": "551a808560822e7312578a8047685541789e0944",
+      "time": "2026-10-04T13:16:00+08:00",
+      "count": 30
+    },
+    {
+      "url": "https://raw.githubusercontent.com/Memory455/TrendRadar3/master/output/2026%E5%B9%B410%E6%9C%8804%E6%97%A5/txt/20%E6%97%B605%E5%88%86.txt",
+      "sha": "b2e0eb7f74ed96d02d8183388f0b272701e7f5b0",
+      "time": "2026-10-04T20:05:00+08:00",
+      "count": 30
+    },
+    {
+      "url": "https://raw.githubusercontent.com/Memory455/TrendRadar3/master/output/2026%E5%B9%B410%E6%9C%8805%E6%97%A5/txt/01%E6%97%B623%E5%88%86.txt",
+      "sha": "c83f0821bf9e41740b1f5e66d928d2e7dcfda518",
+      "time": "2026-10-05T01:23:00+08:00",
+      "count": 30
+    },
+    {
+      "url": "https://raw.githubusercontent.com/Memory455/TrendRadar3/master/output/2026%E5%B9%B410%E6%9C%8805%E6%97%A5/txt/05%E6%97%B607%E5%88%86.txt",
+      "sha": "e496cb7cbfc0e3f009f9982d2f3cc44a8c2e3ec9",
+      "time": "2026-10-05T05:07:00+08:00",
+      "count": 30
+    },
+    {
+      "url": "https://raw.githubusercontent.com/Memory455/TrendRadar3/master/output/2026%E5%B9%B410%E6%9C%8805%E6%97%A5/txt/08%E6%97%B636%E5%88%86.txt",
+      "sha": "34a8b5281cfe14016151f9ace3c8b8931d7c82eb",
+      "time": "2026-10-05T08:36:00+08:00",
+      "count": 30
+    },
+    {
+      "url": "https://raw.githubusercontent.com/Memory455/TrendRadar3/master/output/2026%E5%B9%B410%E6%9C%8805%E6%97%A5/txt/14%E6%97%B643%E5%88%86.txt",
+      "sha": "3d1480f833625e0c3989ab1ce3f1290eaa53e111",
+      "time": "2026-10-05T14:43:00+08:00",
+      "count": 30
+    },
+    {
+      "url": "https://raw.githubusercontent.com/Memory455/TrendRadar3/master/output/2026%E5%B9%B410%E6%9C%8805%E6%97%A5/txt/23%E6%97%B645%E5%88%86.txt",
+      "sha": "b94b9f4659fbf0af33213196cb586192dc4c9cbd",
+      "time": "2026-10-05T23:45:00+08:00",
+      "count": 30
+    },
+    {
+      "url": "https://raw.githubusercontent.com/Memory455/TrendRadar3/master/output/2026%E5%B9%B410%E6%9C%8808%E6%97%A5/txt/00%E6%97%B614%E5%88%86.txt",
+      "sha": "c5822580db82a5b2f696af7b943ccd31ab0f2106",
+      "time": "2026-10-08T00:14:00+08:00",
+      "count": 30
+    },
+    {
+      "url": "https://raw.githubusercontent.com/Memory455/TrendRadar3/master/output/2026%E5%B9%B410%E6%9C%8808%E6%97%A5/txt/05%E6%97%B651%E5%88%86.txt",
+      "sha": "9bcb46d26a0715e3c3afca53b2da2df6ecfb7617",
+      "time": "2026-10-08T05:51:00+08:00",
+      "count": 30
+    },
+    {
+      "url": "https://raw.githubusercontent.com/Memory455/TrendRadar3/master/output/2026%E5%B9%B410%E6%9C%8808%E6%97%A5/txt/09%E6%97%B640%E5%88%86.txt",
+      "sha": "fa761cd8f17ca625a37dd4cd17bcab6dcb3ea847",
+      "time": "2026-10-08T09:40:00+08:00",
+      "count": 30
+    },
+    {
+      "url": "https://raw.githubusercontent.com/Memory455/TrendRadar3/master/output/2026%E5%B9%B410%E6%9C%8808%E6%97%A5/txt/16%E6%97%B640%E5%88%86.txt",
+      "sha": "b9d8f70e81cabefbae4d2fb2cad17add99960576",
+      "time": "2026-10-08T16:40:00+08:00",
+      "count": 30
+    },
+    {
+      "url": "https://raw.githubusercontent.com/Memory455/TrendRadar3/master/output/2026%E5%B9%B410%E6%9C%8807%E6%97%A5/txt/00%E6%97%B640%E5%88%86.txt",
+      "sha": "45eecc3c11c5766013858ab284d58a37f02e66b7",
+      "time": "2026-10-07T00:40:00+08:00",
+      "count": 30
+    },
+    {
+      "url": "https://raw.githubusercontent.com/Memory455/TrendRadar3/master/output/2026%E5%B9%B410%E6%9C%8807%E6%97%A5/txt/05%E6%97%B631%E5%88%86.txt",
+      "sha": "5728cc12065c66819665603a0354c1d78a76874d",
+      "time": "2026-10-07T05:31:00+08:00",
+      "count": 30
+    },
+    {
+      "url": "https://raw.githubusercontent.com/Memory455/TrendRadar3/master/output/2026%E5%B9%B410%E6%9C%8807%E6%97%A5/txt/09%E6%97%B619%E5%88%86.txt",
+      "sha": "87bcc533ea753d1e598bca10b613af78db8b9bce",
+      "time": "2026-10-07T09:19:00+08:00",
+      "count": 30
+    },
+    {
+      "url": "https://raw.githubusercontent.com/Memory455/TrendRadar3/master/output/2026%E5%B9%B410%E6%9C%8807%E6%97%A5/txt/16%E6%97%B624%E5%88%86.txt",
+      "sha": "82f55a8b1f0ff08a9b8af11987d315131fc016f1",
+      "time": "2026-10-07T16:24:00+08:00",
+      "count": 30
+    },
+    {
+      "url": "https://raw.githubusercontent.com/Memory455/TrendRadar3/master/output/2026%E5%B9%B410%E6%9C%8809%E6%97%A5/txt/00%E6%97%B616%E5%88%86.txt",
+      "sha": "dddc6d85006e3bc646d8a5a186f24df138687285",
+      "time": "2026-10-09T00:16:00+08:00",
+      "count": 30
+    },
+    {
+      "url": "https://raw.githubusercontent.com/Memory455/TrendRadar3/master/output/2026%E5%B9%B410%E6%9C%8809%E6%97%A5/txt/05%E6%97%B654%E5%88%86.txt",
+      "sha": "477030d68ed36f7714c4fc6acb62bbbc5b3c4334",
+      "time": "2026-10-09T05:54:00+08:00",
+      "count": 30
+    },
+    {
+      "url": "https://raw.githubusercontent.com/Memory455/TrendRadar3/master/output/2026%E5%B9%B410%E6%9C%8809%E6%97%A5/txt/09%E6%97%B653%E5%88%86.txt",
+      "sha": "28535a1cd6f956ae92cf5526caae2998426afad6",
+      "time": "2026-10-09T09:53:00+08:00",
+      "count": 30
+    },
+    {
+      "url": "https://raw.githubusercontent.com/Memory455/TrendRadar3/master/output/2026%E5%B9%B410%E6%9C%8809%E6%97%A5/txt/16%E6%97%B645%E5%88%86.txt",
+      "sha": "8b668b7f14bba8d2ff57a54e3c7f1c54f3a58248",
+      "time": "2026-10-09T16:45:00+08:00",
+      "count": 30
+    },
+    {
+      "url": "https://raw.githubusercontent.com/Memory455/TrendRadar3/master/output/2026%E5%B9%B410%E6%9C%8812%E6%97%A5/txt/04%E6%97%B605%E5%88%86.txt",
+      "sha": "4de60e92991bd584489477f0c820a212ada546e1",
+      "time": "2026-10-12T04:05:00+08:00",
+      "count": 30
+    },
+    {
+      "url": "https://raw.githubusercontent.com/Memory455/TrendRadar3/master/output/2026%E5%B9%B410%E6%9C%8812%E6%97%A5/txt/08%E6%97%B622%E5%88%86.txt",
+      "sha": "60445309029a67fea18e7bb4b1058e3816259367",
+      "time": "2026-10-12T08:22:00+08:00",
+      "count": 30
+    },
+    {
+      "url": "https://raw.githubusercontent.com/Memory455/TrendRadar3/master/output/2026%E5%B9%B410%E6%9C%8812%E6%97%A5/txt/15%E6%97%B609%E5%88%86.txt",
+      "sha": "205fb1e70d20e39e1e23f1cedde1edc535abcaa8",
+      "time": "2026-10-12T15:09:00+08:00",
+      "count": 30
+    },
+    {
+      "url": "https://raw.githubusercontent.com/Memory455/TrendRadar3/master/output/2026%E5%B9%B410%E6%9C%8813%E6%97%A5/txt/01%E6%97%B638%E5%88%86.txt",
+      "sha": "c46ef11ec15c9313d8855dd06485048015904168",
+      "time": "2026-10-13T01:38:00+08:00",
+      "count": 30
+    },
+    {
+      "url": "https://raw.githubusercontent.com/Memory455/TrendRadar3/master/output/2026%E5%B9%B410%E6%9C%8813%E6%97%A5/txt/08%E6%97%B625%E5%88%86.txt",
+      "sha": "099aed00c0275f746d9bf142e0a584ee39783159",
+      "time": "2026-10-13T08:25:00+08:00",
+      "count": 30
+    },
+    {
+      "url": "https://raw.githubusercontent.com/Memory455/TrendRadar3/master/output/2026%E5%B9%B410%E6%9C%8813%E6%97%A5/txt/15%E6%97%B633%E5%88%86.txt",
+      "sha": "76d43bc54976030dae5bdb999fd612468fcc6f80",
+      "time": "2026-10-13T15:33:00+08:00",
+      "count": 30
+    },
+    {
+      "url": "https://raw.githubusercontent.com/Memory455/TrendRadar3/master/output/2026%E5%B9%B410%E6%9C%8813%E6%97%A5/txt/23%E6%97%B647%E5%88%86.txt",
+      "sha": "ea4cfaf219ff0f23e2df8aab5807a57ac10bde51",
+      "time": "2026-10-13T23:47:00+08:00",
+      "count": 30
+    },
+    {
+      "url": "https://raw.githubusercontent.com/Memory455/TrendRadar3/master/output/2026%E5%B9%B410%E6%9C%8815%E6%97%A5/txt/02%E6%97%B625%E5%88%86.txt",
+      "sha": "dd5955d717865fb0340dd13737b1b93262e53660",
+      "time": "2026-10-15T02:25:00+08:00",
+      "count": 30
+    },
+    {
+      "url": "https://raw.githubusercontent.com/Memory455/TrendRadar3/master/output/2026%E5%B9%B410%E6%9C%8815%E6%97%A5/txt/06%E6%97%B608%E5%88%86.txt",
+      "sha": "b248d7d20bdf97d731b6601a0745f402849c4636",
+      "time": "2026-10-15T06:08:00+08:00",
+      "count": 30
+    },
+    {
+      "url": "https://raw.githubusercontent.com/Memory455/TrendRadar3/master/output/2026%E5%B9%B410%E6%9C%8815%E6%97%A5/txt/09%E6%97%B619%E5%88%86.txt",
+      "sha": "abe27036bf9a8c137f816d7ed40ab5b1d9dcb445",
+      "time": "2026-10-15T09:19:00+08:00",
+      "count": 30
+    },
+    {
+      "url": "https://raw.githubusercontent.com/Memory455/TrendRadar3/master/output/2026%E5%B9%B410%E6%9C%8815%E6%97%A5/txt/15%E6%97%B611%E5%88%86.txt",
+      "sha": "01b13881d51605639deb930006081a734cab26f8",
+      "time": "2026-10-15T15:11:00+08:00",
+      "count": 30
+    },
+    {
+      "url": "https://raw.githubusercontent.com/Memory455/TrendRadar3/master/output/2026%E5%B9%B410%E6%9C%8815%E6%97%A5/txt/21%E6%97%B613%E5%88%86.txt",
+      "sha": "fe99482cdb623fd6c6b7b884d4852c6ba6bed57e",
+      "time": "2026-10-15T21:13:00+08:00",
+      "count": 30
+    },
+    {
+      "url": "https://raw.githubusercontent.com/Memory455/TrendRadar3/master/output/2026%E5%B9%B410%E6%9C%8811%E6%97%A5/txt/02%E6%97%B622%E5%88%86.txt",
+      "sha": "0c2068c82cfa9154875183ae25823d9e7c35bdbe",
+      "time": "2026-10-11T02:22:00+08:00",
+      "count": 30
+    },
+    {
+      "url": "https://raw.githubusercontent.com/Memory455/TrendRadar3/master/output/2026%E5%B9%B410%E6%9C%8811%E6%97%A5/txt/06%E6%97%B622%E5%88%86.txt",
+      "sha": "c6f3e834068ea90df89dc5e37e20268bb448a11a",
+      "time": "2026-10-11T06:22:00+08:00",
+      "count": 30
+    },
+    {
+      "url": "https://raw.githubusercontent.com/Memory455/TrendRadar3/master/output/2026%E5%B9%B410%E6%9C%8811%E6%97%A5/txt/09%E6%97%B644%E5%88%86.txt",
+      "sha": "3ce83a16f0e99d90f708f813359d4c6002f0ab6a",
+      "time": "2026-10-11T09:44:00+08:00",
+      "count": 30
+    },
+    {
+      "url": "https://raw.githubusercontent.com/Memory455/TrendRadar3/master/output/2026%E5%B9%B410%E6%9C%8811%E6%97%A5/txt/16%E6%97%B634%E5%88%86.txt",
+      "sha": "0f9c1bb8e03ca348ced59d3af8fcf629d1832193",
+      "time": "2026-10-11T16:34:00+08:00",
+      "count": 30
+    },
+    {
+      "url": "https://raw.githubusercontent.com/Memory455/TrendRadar3/master/output/2026%E5%B9%B410%E6%9C%8811%E6%97%A5/txt/23%E6%97%B630%E5%88%86.txt",
+      "sha": "795bdf6c24a5e6af84bd10728e9336df984eaf7e",
+      "time": "2026-10-11T23:30:00+08:00",
+      "count": 30
+    },
+    {
+      "url": "https://raw.githubusercontent.com/Memory455/TrendRadar3/master/output/2026%E5%B9%B410%E6%9C%8816%E6%97%A5/txt/02%E6%97%B607%E5%88%86.txt",
+      "sha": "f83eab76f4c7bc1b0786860321d9861e2f0b3a03",
+      "time": "2026-10-16T02:07:00+08:00",
+      "count": 30
+    },
+    {
+      "url": "https://raw.githubusercontent.com/Memory455/TrendRadar3/master/output/2026%E5%B9%B410%E6%9C%8816%E6%97%A5/txt/06%E6%97%B602%E5%88%86.txt",
+      "sha": "26b5218ddbddbdcdb22afacd09597609ab244979",
+      "time": "2026-10-16T06:02:00+08:00",
+      "count": 30
+    },
+    {
+      "url": "https://raw.githubusercontent.com/Memory455/TrendRadar3/master/output/2026%E5%B9%B410%E6%9C%8816%E6%97%A5/txt/09%E6%97%B604%E5%88%86.txt",
+      "sha": "7a2e0aff6800431d59ffd1e082cde6b3b91fae6c",
+      "time": "2026-10-16T09:04:00+08:00",
+      "count": 30
+    },
+    {
+      "url": "https://raw.githubusercontent.com/Memory455/TrendRadar3/master/output/2026%E5%B9%B410%E6%9C%8816%E6%97%A5/txt/14%E6%97%B654%E5%88%86.txt",
+      "sha": "5409ff0c299be66a31c2ba431d823b12d7ef8bd8",
+      "time": "2026-10-16T14:54:00+08:00",
+      "count": 30
+    },
+    {
+      "url": "https://raw.githubusercontent.com/Memory455/TrendRadar3/master/output/2026%E5%B9%B410%E6%9C%8816%E6%97%A5/txt/20%E6%97%B612%E5%88%86.txt",
+      "sha": "4dd6cd772cc99a64c3f8f738b0414e7d5a46a0af",
+      "time": "2026-10-16T20:12:00+08:00",
+      "count": 30
+    },
+    {
+      "url": "https://raw.githubusercontent.com/Memory455/TrendRadar3/master/output/2026%E5%B9%B410%E6%9C%8814%E6%97%A5/txt/05%E6%97%B606%E5%88%86.txt",
+      "sha": "cfbd49ace07bf59b49e342a0b42dca2f21a1716d",
+      "time": "2026-10-14T05:06:00+08:00",
+      "count": 30
+    },
+    {
+      "url": "https://raw.githubusercontent.com/Memory455/TrendRadar3/master/output/2026%E5%B9%B410%E6%9C%8814%E6%97%A5/txt/09%E6%97%B601%E5%88%86.txt",
+      "sha": "369b20991376cd6b078ef12d4e1ad903cefd2ed0",
+      "time": "2026-10-14T09:01:00+08:00",
+      "count": 30
+    },
+    {
+      "url": "https://raw.githubusercontent.com/Memory455/TrendRadar3/master/output/2026%E5%B9%B410%E6%9C%8814%E6%97%A5/txt/15%E6%97%B620%E5%88%86.txt",
+      "sha": "ae684e1309fec3c0013fe6bf6a6eb5c88dd3913c",
+      "time": "2026-10-14T15:20:00+08:00",
+      "count": 30
+    },
+    {
+      "url": "https://raw.githubusercontent.com/Memory455/TrendRadar3/master/output/2026%E5%B9%B410%E6%9C%8814%E6%97%A5/txt/21%E6%97%B629%E5%88%86.txt",
+      "sha": "1cb799ff6aa923a94de4f97a0461ba561d3f31f0",
+      "time": "2026-10-14T21:29:00+08:00",
+      "count": 30
+    },
+    {
+      "url": "https://raw.githubusercontent.com/Memory455/TrendRadar3/master/output/2026%E5%B9%B410%E6%9C%8810%E6%97%A5/txt/00%E6%97%B601%E5%88%86.txt",
+      "sha": "10463d742a5e205cd916946c798d2ab11e319766",
+      "time": "2026-10-10T00:01:00+08:00",
+      "count": 30
+    },
+    {
+      "url": "https://raw.githubusercontent.com/Memory455/TrendRadar3/master/output/2026%E5%B9%B410%E6%9C%8810%E6%97%A5/txt/04%E6%97%B648%E5%88%86.txt",
+      "sha": "aa13fe46f3119b2125fa03d75660704d7535ec3b",
+      "time": "2026-10-10T04:48:00+08:00",
+      "count": 30
+    },
+    {
+      "url": "https://raw.githubusercontent.com/Memory455/TrendRadar3/master/output/2026%E5%B9%B410%E6%9C%8810%E6%97%A5/txt/08%E6%97%B638%E5%88%86.txt",
+      "sha": "bc21583868da2f27170f33621dbb29ca7d2e7a50",
+      "time": "2026-10-10T08:38:00+08:00",
+      "count": 30
+    },
+    {
+      "url": "https://raw.githubusercontent.com/Memory455/TrendRadar3/master/output/2026%E5%B9%B410%E6%9C%8810%E6%97%A5/txt/14%E6%97%B652%E5%88%86.txt",
+      "sha": "f048d5d64f0f486afc85cc498648741877836773",
+      "time": "2026-10-10T14:52:00+08:00",
+      "count": 30
+    },
+    {
+      "url": "https://raw.githubusercontent.com/Memory455/TrendRadar3/master/output/2026%E5%B9%B410%E6%9C%8810%E6%97%A5/txt/21%E6%97%B628%E5%88%86.txt",
+      "sha": "d0c57483ece9eb10214cf3cf518b82ffb02e03a6",
+      "time": "2026-10-10T21:28:00+08:00",
+      "count": 30
+    },
+    {
+      "url": "https://raw.githubusercontent.com/Memory455/TrendRadar3/master/output/2026%E5%B9%B410%E6%9C%8822%E6%97%A5/txt/03%E6%97%B614%E5%88%86.txt",
+      "sha": "fcdabe356118e6f2eb21a1be043f09bb55d82d71",
+      "time": "2026-10-22T03:14:00+08:00",
+      "count": 30
+    },
+    {
+      "url": "https://raw.githubusercontent.com/Memory455/TrendRadar3/master/output/2026%E5%B9%B410%E6%9C%8822%E6%97%A5/txt/07%E6%97%B607%E5%88%86.txt",
+      "sha": "6ca26c9856fa499113f58d6c7b1b5cd017731ed1",
+      "time": "2026-10-22T07:07:00+08:00",
+      "count": 30
+    },
+    {
+      "url": "https://raw.githubusercontent.com/Memory455/TrendRadar3/master/output/2026%E5%B9%B410%E6%9C%8822%E6%97%A5/txt/12%E6%97%B608%E5%88%86.txt",
+      "sha": "e8351e5edc3ef48dbdced42cacbcad6db7634b6f",
+      "time": "2026-10-22T12:08:00+08:00",
+      "count": 30
+    },
+    {
+      "url": "https://raw.githubusercontent.com/Memory455/TrendRadar3/master/output/2026%E5%B9%B410%E6%9C%8822%E6%97%A5/txt/17%E6%97%B656%E5%88%86.txt",
+      "sha": "58566a890f04e897b1da3fd2e362e27f5b3f21d1",
+      "time": "2026-10-22T17:56:00+08:00",
+      "count": 30
+    },
+    {
+      "url": "https://raw.githubusercontent.com/Memory455/TrendRadar3/master/output/2026%E5%B9%B410%E6%9C%8822%E6%97%A5/txt/22%E6%97%B659%E5%88%86.txt",
+      "sha": "58a993699b276ed3be229c44d71d33c3acacb7e2",
+      "time": "2026-10-22T22:59:00+08:00",
+      "count": 30
+    },
+    {
+      "url": "https://raw.githubusercontent.com/Memory455/TrendRadar3/master/output/2026%E5%B9%B410%E6%9C%8820%E6%97%A5/txt/04%E6%97%B628%E5%88%86.txt",
+      "sha": "8aa023c73589afbaaf40bc6205911b026216604a",
+      "time": "2026-10-20T04:28:00+08:00",
+      "count": 30
+    },
+    {
+      "url": "https://raw.githubusercontent.com/Memory455/TrendRadar3/master/output/2026%E5%B9%B410%E6%9C%8820%E6%97%A5/txt/08%E6%97%B610%E5%88%86.txt",
+      "sha": "f603bddcd63300729352f07d70472826da0f15f1",
+      "time": "2026-10-20T08:10:00+08:00",
+      "count": 30
+    },
+    {
+      "url": "https://raw.githubusercontent.com/Memory455/TrendRadar3/master/output/2026%E5%B9%B410%E6%9C%8820%E6%97%A5/txt/13%E6%97%B646%E5%88%86.txt",
+      "sha": "7dc3e94740679ea999dcde9d2a398d25a0699366",
+      "time": "2026-10-20T13:46:00+08:00",
+      "count": 30
+    },
+    {
+      "url": "https://raw.githubusercontent.com/Memory455/TrendRadar3/master/output/2026%E5%B9%B410%E6%9C%8820%E6%97%A5/txt/19%E6%97%B614%E5%88%86.txt",
+      "sha": "2029ff80d72a7a357717833df781d7dde52e70c1",
+      "time": "2026-10-20T19:14:00+08:00",
+      "count": 30
+    },
+    {
+      "url": "https://raw.githubusercontent.com/Memory455/TrendRadar3/master/output/2026%E5%B9%B410%E6%9C%8819%E6%97%A5/txt/01%E6%97%B655%E5%88%86.txt",
+      "sha": "b9b1bd38e374000d58549c48c9896be17fb4d274",
+      "time": "2026-10-19T01:55:00+08:00",
+      "count": 30
+    },
+    {
+      "url": "https://raw.githubusercontent.com/Memory455/TrendRadar3/master/output/2026%E5%B9%B410%E6%9C%8819%E6%97%A5/txt/04%E6%97%B624%E5%88%86.txt",
+      "sha": "737a9c9eaa2acd01b462ca285b2ec60c946e433c",
+      "time": "2026-10-19T04:24:00+08:00",
+      "count": 30
+    },
+    {
+      "url": "https://raw.githubusercontent.com/Memory455/TrendRadar3/master/output/2026%E5%B9%B410%E6%9C%8819%E6%97%A5/txt/06%E6%97%B654%E5%88%86.txt",
+      "sha": "224c0db8482a6098ed09ab3ed5ea0b2829ba04f1",
+      "time": "2026-10-19T06:54:00+08:00",
+      "count": 30
+    },
+    {
+      "url": "https://raw.githubusercontent.com/Memory455/TrendRadar3/master/output/2026%E5%B9%B410%E6%9C%8819%E6%97%A5/txt/08%E6%97%B659%E5%88%86.txt",
+      "sha": "9490d86e9bc63cabf01bc0d6d6478b11914e8d40",
+      "time": "2026-10-19T08:59:00+08:00",
+      "count": 30
+    },
+    {
+      "url": "https://raw.githubusercontent.com/Memory455/TrendRadar3/master/output/2026%E5%B9%B410%E6%9C%8819%E6%97%A5/txt/14%E6%97%B601%E5%88%86.txt",
+      "sha": "f67cd4ad7bca980235a7c69bec8cb69e19f8b626",
+      "time": "2026-10-19T14:01:00+08:00",
+      "count": 30
+    },
+    {
+      "url": "https://raw.githubusercontent.com/Memory455/TrendRadar3/master/output/2026%E5%B9%B410%E6%9C%8819%E6%97%A5/txt/22%E6%97%B629%E5%88%86.txt",
+      "sha": "014a1538ddeb75a448d61497eec88c7ee7f24dda",
+      "time": "2026-10-19T22:29:00+08:00",
+      "count": 30
+    },
+    {
+      "url": "https://raw.githubusercontent.com/Memory455/TrendRadar3/master/output/2026%E5%B9%B410%E6%9C%8818%E6%97%A5/txt/00%E6%97%B614%E5%88%86.txt",
+      "sha": "de46fb1e78850729a91624072156914314b9ae12",
+      "time": "2026-10-18T00:14:00+08:00",
+      "count": 30
+    },
+    {
+      "url": "https://raw.githubusercontent.com/Memory455/TrendRadar3/master/output/2026%E5%B9%B410%E6%9C%8818%E6%97%A5/txt/03%E6%97%B608%E5%88%86.txt",
+      "sha": "1c8ec13af7e26ee310588f25a0e8fed771c54f2e",
+      "time": "2026-10-18T03:08:00+08:00",
+      "count": 30
+    },
+    {
+      "url": "https://raw.githubusercontent.com/Memory455/TrendRadar3/master/output/2026%E5%B9%B410%E6%9C%8818%E6%97%A5/txt/06%E6%97%B605%E5%88%86.txt",
+      "sha": "fc307e98ed135576c33ba2f6188c3d8a33ca5553",
+      "time": "2026-10-18T06:05:00+08:00",
+      "count": 30
+    },
+    {
+      "url": "https://raw.githubusercontent.com/Memory455/TrendRadar3/master/output/2026%E5%B9%B410%E6%9C%8818%E6%97%A5/txt/08%E6%97%B645%E5%88%86.txt",
+      "sha": "3a0dd2dd46f24fd5a5a8dabfe82b797e264c26c5",
+      "time": "2026-10-18T08:45:00+08:00",
+      "count": 30
+    },
+    {
+      "url": "https://raw.githubusercontent.com/Memory455/TrendRadar3/master/output/2026%E5%B9%B410%E6%9C%8818%E6%97%A5/txt/13%E6%97%B636%E5%88%86.txt",
+      "sha": "0f41c95ef6b364ac906ff099b511cdb54e04ec5a",
+      "time": "2026-10-18T13:36:00+08:00",
+      "count": 30
+    },
+    {
+      "url": "https://raw.githubusercontent.com/Memory455/TrendRadar3/master/output/2026%E5%B9%B410%E6%9C%8818%E6%97%A5/txt/18%E6%97%B643%E5%88%86.txt",
+      "sha": "a005fecaaa75ff05655462a3a57ff0105e4ada6e",
+      "time": "2026-10-18T18:43:00+08:00",
+      "count": 30
+    },
+    {
+      "url": "https://raw.githubusercontent.com/Memory455/TrendRadar3/master/output/2026%E5%B9%B410%E6%9C%8818%E6%97%A5/txt/22%E6%97%B624%E5%88%86.txt",
+      "sha": "77e2ccbd994f5eac40069424db941f978e06e7bc",
+      "time": "2026-10-18T22:24:00+08:00",
+      "count": 30
+    },
+    {
+      "url": "https://raw.githubusercontent.com/Memory455/TrendRadar3/master/output/2026%E5%B9%B410%E6%9C%8824%E6%97%A5/txt/02%E6%97%B659%E5%88%86.txt",
+      "sha": "a16e45562d187f82b2684fb7232ac38ea94b386a",
+      "time": "2026-10-24T02:59:00+08:00",
+      "count": 30
+    },
+    {
+      "url": "https://raw.githubusercontent.com/Memory455/TrendRadar3/master/output/2026%E5%B9%B410%E6%9C%8824%E6%97%A5/txt/06%E6%97%B600%E5%88%86.txt",
+      "sha": "a1ebc46f7609c91042cc7418289a07c37e92afd6",
+      "time": "2026-10-24T06:00:00+08:00",
+      "count": 30
+    },
+    {
+      "url": "https://raw.githubusercontent.com/Memory455/TrendRadar3/master/output/2026%E5%B9%B410%E6%9C%8824%E6%97%A5/txt/08%E6%97%B633%E5%88%86.txt",
+      "sha": "24dd39138a3915a1ab89f32dba4ad49982bc5447",
+      "time": "2026-10-24T08:33:00+08:00",
+      "count": 30
+    },
+    {
+      "url": "https://raw.githubusercontent.com/Memory455/TrendRadar3/master/output/2026%E5%B9%B410%E6%9C%8824%E6%97%A5/txt/13%E6%97%B635%E5%88%86.txt",
+      "sha": "c9c8b28104d493630d1aeaf61ae26778196c3987",
+      "time": "2026-10-24T13:35:00+08:00",
+      "count": 30
+    },
+    {
+      "url": "https://raw.githubusercontent.com/Memory455/TrendRadar3/master/output/2026%E5%B9%B410%E6%9C%8824%E6%97%A5/txt/18%E6%97%B639%E5%88%86.txt",
+      "sha": "dd1e75baa292570b46639ff40d900d1853fe25c3",
+      "time": "2026-10-24T18:39:00+08:00",
+      "count": 30
+    },
+    {
+      "url": "https://raw.githubusercontent.com/Memory455/TrendRadar3/master/output/2026%E5%B9%B410%E6%9C%8824%E6%97%A5/txt/22%E6%97%B623%E5%88%86.txt",
+      "sha": "8ef50d65bc2deb4d5a5da5784386eb5325ec98a2",
+      "time": "2026-10-24T22:23:00+08:00",
+      "count": 30
+    },
+    {
+      "url": "https://raw.githubusercontent.com/Memory455/TrendRadar3/master/output/2026%E5%B9%B410%E6%9C%8823%E6%97%A5/txt/03%E6%97%B610%E5%88%86.txt",
+      "sha": "cfff77804b25f5e3366a80b2e33fd2378eecfcb3",
+      "time": "2026-10-23T03:10:00+08:00",
+      "count": 30
+    },
+    {
+      "url": "https://raw.githubusercontent.com/Memory455/TrendRadar3/master/output/2026%E5%B9%B410%E6%9C%8823%E6%97%A5/txt/07%E6%97%B607%E5%88%86.txt",
+      "sha": "00cdd687eb4e20e84ccb881e421f6c185eb686a4",
+      "time": "2026-10-23T07:07:00+08:00",
+      "count": 30
+    },
+    {
+      "url": "https://raw.githubusercontent.com/Memory455/TrendRadar3/master/output/2026%E5%B9%B410%E6%9C%8823%E6%97%A5/txt/12%E6%97%B612%E5%88%86.txt",
+      "sha": "7fcdb3b31b81faf47f871e980ac2771ca279aa4c",
+      "time": "2026-10-23T12:12:00+08:00",
+      "count": 30
+    },
+    {
+      "url": "https://raw.githubusercontent.com/Memory455/TrendRadar3/master/output/2026%E5%B9%B410%E6%9C%8823%E6%97%A5/txt/17%E6%97%B650%E5%88%86.txt",
+      "sha": "6907ebf15dbfe6328d4d064f8540f04499fd1aea",
+      "time": "2026-10-23T17:50:00+08:00",
+      "count": 30
+    },
+    {
+      "url": "https://raw.githubusercontent.com/Memory455/TrendRadar3/master/output/2026%E5%B9%B410%E6%9C%8823%E6%97%A5/txt/22%E6%97%B648%E5%88%86.txt",
+      "sha": "07809389dedc2c2be8efcd03789d69e405ce1ef2",
+      "time": "2026-10-23T22:48:00+08:00",
+      "count": 30
+    },
+    {
+      "url": "https://raw.githubusercontent.com/Memory455/TrendRadar3/master/output/2026%E5%B9%B410%E6%9C%8817%E6%97%A5/txt/01%E6%97%B615%E5%88%86.txt",
+      "sha": "049dc569e4aed4c226e3c3f5ebe36219d063be79",
+      "time": "2026-10-17T01:15:00+08:00",
+      "count": 30
+    },
+    {
+      "url": "https://raw.githubusercontent.com/Memory455/TrendRadar3/master/output/2026%E5%B9%B410%E6%9C%8817%E6%97%A5/txt/07%E6%97%B622%E5%88%86.txt",
+      "sha": "fc265027a13234d792439333f010a2290a368a79",
+      "time": "2026-10-17T07:22:00+08:00",
+      "count": 30
+    },
+    {
+      "url": "https://raw.githubusercontent.com/Memory455/TrendRadar3/master/output/2026%E5%B9%B410%E6%9C%8817%E6%97%A5/txt/11%E6%97%B650%E5%88%86.txt",
+      "sha": "883a995bb7ce60b498d783eb3ae19b67b780693c",
+      "time": "2026-10-17T11:50:00+08:00",
+      "count": 30
+    },
+    {
+      "url": "https://raw.githubusercontent.com/Memory455/TrendRadar3/master/output/2026%E5%B9%B410%E6%9C%8817%E6%97%A5/txt/16%E6%97%B625%E5%88%86.txt",
+      "sha": "07b95ef841f007933e44a00fde094ba67da7ca3d",
+      "time": "2026-10-17T16:25:00+08:00",
+      "count": 30
+    },
+    {
+      "url": "https://raw.githubusercontent.com/Memory455/TrendRadar3/master/output/2026%E5%B9%B410%E6%9C%8817%E6%97%A5/txt/20%E6%97%B649%E5%88%86.txt",
+      "sha": "12e76acd686ac7234b8a4d54bca91940c5d3690d",
+      "time": "2026-10-17T20:49:00+08:00",
+      "count": 30
+    },
+    {
+      "url": "https://raw.githubusercontent.com/Memory455/TrendRadar3/master/output/2026%E5%B9%B410%E6%9C%8821%E6%97%A5/txt/00%E6%97%B638%E5%88%86.txt",
+      "sha": "64127015b73d057c03bd6b226c1f37c8ef4ff9f8",
+      "time": "2026-10-21T00:38:00+08:00",
+      "count": 30
+    },
+    {
+      "url": "https://raw.githubusercontent.com/Memory455/TrendRadar3/master/output/2026%E5%B9%B410%E6%9C%8821%E6%97%A5/txt/04%E6%97%B621%E5%88%86.txt",
+      "sha": "861287e2ca3a36864ef6e1a0ed113fbc7b5ab54a",
+      "time": "2026-10-21T04:21:00+08:00",
+      "count": 30
+    },
+    {
+      "url": "https://raw.githubusercontent.com/Memory455/TrendRadar3/master/output/2026%E5%B9%B410%E6%9C%8821%E6%97%A5/txt/07%E6%97%B642%E5%88%86.txt",
+      "sha": "e938c514a71a50296a627129534d2a933254da6b",
+      "time": "2026-10-21T07:42:00+08:00",
+      "count": 30
+    },
+    {
+      "url": "https://raw.githubusercontent.com/Memory455/TrendRadar3/master/output/2026%E5%B9%B410%E6%9C%8821%E6%97%A5/txt/12%E6%97%B607%E5%88%86.txt",
+      "sha": "113a7a3c69bc7edea2e6e3b8d83e5f280ca7a386",
+      "time": "2026-10-21T12:07:00+08:00",
+      "count": 30
+    },
+    {
+      "url": "https://raw.githubusercontent.com/Memory455/TrendRadar3/master/output/2026%E5%B9%B410%E6%9C%8821%E6%97%A5/txt/17%E6%97%B655%E5%88%86.txt",
+      "sha": "976c0dd2e95afd6ab8410a349c022b9a4053301f",
+      "time": "2026-10-21T17:55:00+08:00",
+      "count": 30
+    },
+    {
+      "url": "https://raw.githubusercontent.com/Memory455/TrendRadar3/master/output/2026%E5%B9%B410%E6%9C%8821%E6%97%A5/txt/22%E6%97%B659%E5%88%86.txt",
+      "sha": "3613ad9f613cc5de5f247580c572d1000a671b40",
+      "time": "2026-10-21T22:59:00+08:00",
+      "count": 30
+    },
+    {
+      "url": "https://raw.githubusercontent.com/Memory455/TrendRadar3/master/output/2026%E5%B9%B410%E6%9C%8831%E6%97%A5/txt/02%E6%97%B629%E5%88%86.txt",
+      "sha": "c4dc4feb5abab5aa3538db6ebcbee69176b9ac2d",
+      "time": "2026-10-31T02:29:00+08:00",
+      "count": 30
+    },
+    {
+      "url": "https://raw.githubusercontent.com/Memory455/TrendRadar3/master/output/2026%E5%B9%B410%E6%9C%8831%E6%97%A5/txt/06%E6%97%B652%E5%88%86.txt",
+      "sha": "038bedc5206c144aeb7fa6482f45f1402132627e",
+      "time": "2026-10-31T06:52:00+08:00",
+      "count": 30
+    },
+    {
+      "url": "https://raw.githubusercontent.com/Memory455/TrendRadar3/master/output/2026%E5%B9%B410%E6%9C%8831%E6%97%A5/txt/10%E6%97%B610%E5%88%86.txt",
+      "sha": "4bc562c96912c5e6416a96fbe23fe3da1a6949f4",
+      "time": "2026-10-31T10:10:00+08:00",
+      "count": 30
+    },
+    {
+      "url": "https://raw.githubusercontent.com/Memory455/TrendRadar3/master/output/2026%E5%B9%B410%E6%9C%8831%E6%97%A5/txt/17%E6%97%B627%E5%88%86.txt",
+      "sha": "9e0d57d94628a317a34ebbe72c5fb0830da67aae",
+      "time": "2026-10-31T17:27:00+08:00",
+      "count": 30
+    },
+    {
+      "url": "https://raw.githubusercontent.com/Memory455/TrendRadar3/master/output/2026%E5%B9%B410%E6%9C%8831%E6%97%A5/txt/23%E6%97%B640%E5%88%86.txt",
+      "sha": "6b5140cd4bac473336559d3b51f3b210f10bc849",
+      "time": "2026-10-31T23:40:00+08:00",
+      "count": 30
+    },
+    {
+      "url": "https://raw.githubusercontent.com/bobkingdom/TrendRadar/master/output/2026%E5%B9%B410%E6%9C%8801%E6%97%A5/txt/02%E6%97%B647%E5%88%86.txt",
+      "sha": "9a59df1a5e7f5a9e99a64a2ed43f308bb57897a4",
+      "time": "2026-10-01T02:47:00+08:00",
+      "count": 30
+    },
+    {
+      "url": "https://raw.githubusercontent.com/bobkingdom/TrendRadar/master/output/2026%E5%B9%B410%E6%9C%8801%E6%97%A5/txt/06%E6%97%B647%E5%88%86.txt",
+      "sha": "cf0be8e539c3a5fee308b98121c108026edf0a18",
+      "time": "2026-10-01T06:47:00+08:00",
+      "count": 30
+    },
+    {
+      "url": "https://raw.githubusercontent.com/bobkingdom/TrendRadar/master/output/2026%E5%B9%B410%E6%9C%8801%E6%97%A5/txt/09%E6%97%B646%E5%88%86.txt",
+      "sha": "d471dcf5bdd922530680b82b52cc3dd320f8b0f3",
+      "time": "2026-10-01T09:46:00+08:00",
+      "count": 30
+    },
+    {
+      "url": "https://raw.githubusercontent.com/bobkingdom/TrendRadar/master/output/2026%E5%B9%B410%E6%9C%8801%E6%97%A5/txt/16%E6%97%B612%E5%88%86.txt",
+      "sha": "8ad2e80d226c66b13c25ff3f3688bdee030fc25a",
+      "time": "2026-10-01T16:12:00+08:00",
+      "count": 30
+    },
+    {
+      "url": "https://raw.githubusercontent.com/bobkingdom/TrendRadar/master/output/2026%E5%B9%B410%E6%9C%8801%E6%97%A5/txt/23%E6%97%B656%E5%88%86.txt",
+      "sha": "99c0489e5d5845a30588086f1815023d946689b6",
+      "time": "2026-10-01T23:56:00+08:00",
+      "count": 30
+    },
+    {
+      "url": "https://raw.githubusercontent.com/Memory455/TrendRadar3/master/output/2026%E5%B9%B410%E6%9C%8825%E6%97%A5/txt/02%E6%97%B600%E5%88%86.txt",
+      "sha": "1f692c0efdf4f9905da07ab4b29d5d67e4117722",
+      "time": "2026-10-25T02:00:00+08:00",
+      "count": 30
+    },
+    {
+      "url": "https://raw.githubusercontent.com/Memory455/TrendRadar3/master/output/2026%E5%B9%B410%E6%9C%8825%E6%97%A5/txt/04%E6%97%B640%E5%88%86.txt",
+      "sha": "4b1eb82ffaee06084869722efd555294c3e16b2b",
+      "time": "2026-10-25T04:40:00+08:00",
+      "count": 30
+    },
+    {
+      "url": "https://raw.githubusercontent.com/Memory455/TrendRadar3/master/output/2026%E5%B9%B410%E6%9C%8825%E6%97%A5/txt/07%E6%97%B601%E5%88%86.txt",
+      "sha": "54a9f2557bb4d415343360bf48e446aaec4f8422",
+      "time": "2026-10-25T07:01:00+08:00",
+      "count": 30
+    },
+    {
+      "url": "https://raw.githubusercontent.com/Memory455/TrendRadar3/master/output/2026%E5%B9%B410%E6%9C%8825%E6%97%A5/txt/12%E6%97%B605%E5%88%86.txt",
+      "sha": "9b77216808a35377095bbe31517550900aa16e90",
+      "time": "2026-10-25T12:05:00+08:00",
+      "count": 30
+    },
+    {
+      "url": "https://raw.githubusercontent.com/Memory455/TrendRadar3/master/output/2026%E5%B9%B410%E6%9C%8825%E6%97%A5/txt/17%E6%97%B639%E5%88%86.txt",
+      "sha": "905de1d6b0db7efa73e707f8f26e38cd39786053",
+      "time": "2026-10-25T17:39:00+08:00",
+      "count": 30
+    },
+    {
+      "url": "https://raw.githubusercontent.com/Memory455/TrendRadar3/master/output/2026%E5%B9%B410%E6%9C%8825%E6%97%A5/txt/22%E6%97%B612%E5%88%86.txt",
+      "sha": "109957b474d7eea6828282b9ec664be8618ac332",
+      "time": "2026-10-25T22:12:00+08:00",
+      "count": 30
+    },
+    {
+      "url": "https://raw.githubusercontent.com/Memory455/TrendRadar3/master/output/2026%E5%B9%B410%E6%9C%8828%E6%97%A5/txt/03%E6%97%B657%E5%88%86.txt",
+      "sha": "cafff626b3210c85209b324721fc1760cf104f18",
+      "time": "2026-10-28T03:57:00+08:00",
+      "count": 30
+    },
+    {
+      "url": "https://raw.githubusercontent.com/Memory455/TrendRadar3/master/output/2026%E5%B9%B410%E6%9C%8828%E6%97%A5/txt/07%E6%97%B641%E5%88%86.txt",
+      "sha": "78643132e5384af004a6b5265fd104498d29d575",
+      "time": "2026-10-28T07:41:00+08:00",
+      "count": 30
+    },
+    {
+      "url": "https://raw.githubusercontent.com/Memory455/TrendRadar3/master/output/2026%E5%B9%B410%E6%9C%8828%E6%97%A5/txt/13%E6%97%B600%E5%88%86.txt",
+      "sha": "4b8c7286baeda3057665730f7c1f7928f6ef3e89",
+      "time": "2026-10-28T13:00:00+08:00",
+      "count": 30
+    },
+    {
+      "url": "https://raw.githubusercontent.com/Memory455/TrendRadar3/master/output/2026%E5%B9%B410%E6%9C%8828%E6%97%A5/txt/19%E6%97%B615%E5%88%86.txt",
+      "sha": "30e498a83fb88574ea3d67ac0d676106b33a2a93",
+      "time": "2026-10-28T19:15:00+08:00",
+      "count": 30
+    },
+    {
+      "url": "https://raw.githubusercontent.com/Memory455/TrendRadar3/master/output/2026%E5%B9%B410%E6%9C%8830%E6%97%A5/txt/02%E6%97%B653%E5%88%86.txt",
+      "sha": "e7eb291c3db8d5111f5fd97b4a71abc18e7310e2",
+      "time": "2026-10-30T02:53:00+08:00",
+      "count": 30
+    },
+    {
+      "url": "https://raw.githubusercontent.com/Memory455/TrendRadar3/master/output/2026%E5%B9%B410%E6%9C%8830%E6%97%A5/txt/07%E6%97%B610%E5%88%86.txt",
+      "sha": "4aa28f582dd4e31aaba004466166717e45c2a990",
+      "time": "2026-10-30T07:10:00+08:00",
+      "count": 30
+    },
+    {
+      "url": "https://raw.githubusercontent.com/Memory455/TrendRadar3/master/output/2026%E5%B9%B410%E6%9C%8830%E6%97%A5/txt/13%E6%97%B612%E5%88%86.txt",
+      "sha": "bedfe3793329a13a23042f5c3f8f9c940cc0d818",
+      "time": "2026-10-30T13:12:00+08:00",
+      "count": 30
+    },
+    {
+      "url": "https://raw.githubusercontent.com/Memory455/TrendRadar3/master/output/2026%E5%B9%B410%E6%9C%8830%E6%97%A5/txt/20%E6%97%B631%E5%88%86.txt",
+      "sha": "8bd62425875c32eea7848a54bec51a1f54d19aac",
+      "time": "2026-10-30T20:31:00+08:00",
+      "count": 30
+    },
+    {
+      "url": "https://raw.githubusercontent.com/Memory455/TrendRadar3/master/output/2026%E5%B9%B410%E6%9C%8829%E6%97%A5/txt/02%E6%97%B611%E5%88%86.txt",
+      "sha": "e4c1ad41efce7b40d085e4b1cff1652f2761082d",
+      "time": "2026-10-29T02:11:00+08:00",
+      "count": 30
+    },
+    {
+      "url": "https://raw.githubusercontent.com/Memory455/TrendRadar3/master/output/2026%E5%B9%B410%E6%9C%8829%E6%97%A5/txt/07%E6%97%B602%E5%88%86.txt",
+      "sha": "f3470e89b1ac0412c6f94376b03e375afffc3129",
+      "time": "2026-10-29T07:02:00+08:00",
+      "count": 30
+    },
+    {
+      "url": "https://raw.githubusercontent.com/Memory455/TrendRadar3/master/output/2026%E5%B9%B410%E6%9C%8829%E6%97%A5/txt/13%E6%97%B612%E5%88%86.txt",
+      "sha": "e9733c06d5396c9f439dad013b90d0aeccc9abea",
+      "time": "2026-10-29T13:12:00+08:00",
+      "count": 30
+    },
+    {
+      "url": "https://raw.githubusercontent.com/Memory455/TrendRadar3/master/output/2026%E5%B9%B410%E6%9C%8829%E6%97%A5/txt/20%E6%97%B639%E5%88%86.txt",
+      "sha": "a1d965fafb802acc1a60443b76d4816d0747e743",
+      "time": "2026-10-29T20:39:00+08:00",
+      "count": 30
+    },
+    {
+      "url": "https://raw.githubusercontent.com/Memory455/TrendRadar3/master/output/2026%E5%B9%B410%E6%9C%8827%E6%97%A5/txt/01%E6%97%B612%E5%88%86.txt",
+      "sha": "65d3bf452c24fdc021bfe6504730412fb56e3217",
+      "time": "2026-10-27T01:12:00+08:00",
+      "count": 30
+    },
+    {
+      "url": "https://raw.githubusercontent.com/Memory455/TrendRadar3/master/output/2026%E5%B9%B410%E6%9C%8827%E6%97%A5/txt/06%E6%97%B630%E5%88%86.txt",
+      "sha": "b9cbdfee179e68353ed3e13d09b19f25c1b671f6",
+      "time": "2026-10-27T06:30:00+08:00",
+      "count": 30
+    },
+    {
+      "url": "https://raw.githubusercontent.com/Memory455/TrendRadar3/master/output/2026%E5%B9%B410%E6%9C%8827%E6%97%A5/txt/09%E6%97%B655%E5%88%86.txt",
+      "sha": "b7528d0b6c526717b6f2b34500c702214279b90d",
+      "time": "2026-10-27T09:55:00+08:00",
+      "count": 30
+    },
+    {
+      "url": "https://raw.githubusercontent.com/Memory455/TrendRadar3/master/output/2026%E5%B9%B410%E6%9C%8827%E6%97%A5/txt/15%E6%97%B634%E5%88%86.txt",
+      "sha": "5871210508db9204c16d70266c880b7cc16d7631",
+      "time": "2026-10-27T15:34:00+08:00",
+      "count": 30
+    },
+    {
+      "url": "https://raw.githubusercontent.com/Memory455/TrendRadar3/master/output/2026%E5%B9%B410%E6%9C%8827%E6%97%A5/txt/22%E6%97%B614%E5%88%86.txt",
+      "sha": "17d97e85419d51db43e11c45c44b076cebf935d2",
+      "time": "2026-10-27T22:14:00+08:00",
+      "count": 30
+    },
+    {
+      "url": "https://raw.githubusercontent.com/Memory455/TrendRadar3/master/output/2026%E5%B9%B410%E6%9C%8826%E6%97%A5/txt/02%E6%97%B617%E5%88%86.txt",
+      "sha": "6e4251d83428e10313635f8037319f0a4eb6eab1",
+      "time": "2026-10-26T02:17:00+08:00",
+      "count": 30
+    },
+    {
+      "url": "https://raw.githubusercontent.com/Memory455/TrendRadar3/master/output/2026%E5%B9%B410%E6%9C%8826%E6%97%A5/txt/05%E6%97%B634%E5%88%86.txt",
+      "sha": "a3f96a46c7dbdda833af4757641087a322519d9d",
+      "time": "2026-10-26T05:34:00+08:00",
+      "count": 30
+    },
+    {
+      "url": "https://raw.githubusercontent.com/Memory455/TrendRadar3/master/output/2026%E5%B9%B410%E6%9C%8826%E6%97%A5/txt/07%E6%97%B659%E5%88%86.txt",
+      "sha": "8732d70331806865e5a4e5cec1de39482eff3ab9",
+      "time": "2026-10-26T07:59:00+08:00",
+      "count": 30
+    },
+    {
+      "url": "https://raw.githubusercontent.com/Memory455/TrendRadar3/master/output/2026%E5%B9%B410%E6%9C%8826%E6%97%A5/txt/12%E6%97%B633%E5%88%86.txt",
+      "sha": "6034f6d946bbfa297074201597c70de6278a4548",
+      "time": "2026-10-26T12:33:00+08:00",
+      "count": 30
+    },
+    {
+      "url": "https://raw.githubusercontent.com/Memory455/TrendRadar3/master/output/2026%E5%B9%B410%E6%9C%8826%E6%97%A5/txt/18%E6%97%B653%E5%88%86.txt",
+      "sha": "e143eaefb1a64f5fc8da880b794d02762136159d",
+      "time": "2026-10-26T18:53:00+08:00",
+      "count": 30
+    },
+    {
+      "url": "https://raw.githubusercontent.com/bobkingdom/TrendRadar/master/output/2026%E5%B9%B410%E6%9C%8807%E6%97%A5/txt/01%E6%97%B648%E5%88%86.txt",
+      "sha": "ca2fd2c6f4cefcbfe19f8509fd39b72f8d30dd17",
+      "time": "2026-10-07T01:48:00+08:00",
+      "count": 30
+    },
+    {
+      "url": "https://raw.githubusercontent.com/bobkingdom/TrendRadar/master/output/2026%E5%B9%B410%E6%9C%8807%E6%97%A5/txt/06%E6%97%B612%E5%88%86.txt",
+      "sha": "3a46c2d42c191623bbde4dedaa745b8823ba3104",
+      "time": "2026-10-07T06:12:00+08:00",
+      "count": 30
+    },
+    {
+      "url": "https://raw.githubusercontent.com/bobkingdom/TrendRadar/master/output/2026%E5%B9%B410%E6%9C%8807%E6%97%A5/txt/10%E6%97%B601%E5%88%86.txt",
+      "sha": "7f1936fd0dc54d5c9be1dce808c80728dd7490e8",
+      "time": "2026-10-07T10:01:00+08:00",
+      "count": 30
+    },
+    {
+      "url": "https://raw.githubusercontent.com/bobkingdom/TrendRadar/master/output/2026%E5%B9%B410%E6%9C%8807%E6%97%A5/txt/16%E6%97%B627%E5%88%86.txt",
+      "sha": "2173e6494dbeed8f12128f36fc3638774b318f51",
+      "time": "2026-10-07T16:27:00+08:00",
+      "count": 30
+    },
+    {
+      "url": "https://raw.githubusercontent.com/bobkingdom/TrendRadar/master/output/2026%E5%B9%B410%E6%9C%8808%E6%97%A5/txt/00%E6%97%B602%E5%88%86.txt",
+      "sha": "d200ecda82d7eb2c8c97dc02f3e174d7b7eed92b",
+      "time": "2026-10-08T00:02:00+08:00",
+      "count": 30
+    },
+    {
+      "url": "https://raw.githubusercontent.com/bobkingdom/TrendRadar/master/output/2026%E5%B9%B410%E6%9C%8808%E6%97%A5/txt/05%E6%97%B644%E5%88%86.txt",
+      "sha": "456a3086e438e17477a05624e978c680b52cb629",
+      "time": "2026-10-08T05:44:00+08:00",
+      "count": 30
+    },
+    {
+      "url": "https://raw.githubusercontent.com/bobkingdom/TrendRadar/master/output/2026%E5%B9%B410%E6%9C%8808%E6%97%A5/txt/09%E6%97%B632%E5%88%86.txt",
+      "sha": "95073643b14220a841eadaa7c0c75701c218a97f",
+      "time": "2026-10-08T09:32:00+08:00",
+      "count": 30
+    },
+    {
+      "url": "https://raw.githubusercontent.com/bobkingdom/TrendRadar/master/output/2026%E5%B9%B410%E6%9C%8808%E6%97%A5/txt/16%E6%97%B620%E5%88%86.txt",
+      "sha": "7171395f485871e12cae601cc0acc9b82e930090",
+      "time": "2026-10-08T16:20:00+08:00",
+      "count": 30
+    },
+    {
+      "url": "https://raw.githubusercontent.com/bobkingdom/TrendRadar/master/output/2026%E5%B9%B410%E6%9C%8805%E6%97%A5/txt/02%E6%97%B658%E5%88%86.txt",
+      "sha": "194a08bc4fe84c8e08cb2d837379aa154bcbecbc",
+      "time": "2026-10-05T02:58:00+08:00",
+      "count": 30
+    },
+    {
+      "url": "https://raw.githubusercontent.com/bobkingdom/TrendRadar/master/output/2026%E5%B9%B410%E6%9C%8805%E6%97%A5/txt/06%E6%97%B614%E5%88%86.txt",
+      "sha": "d98e8c0154bdc1600898c269ce6a7c62dd8a0274",
+      "time": "2026-10-05T06:14:00+08:00",
+      "count": 30
+    },
+    {
+      "url": "https://raw.githubusercontent.com/bobkingdom/TrendRadar/master/output/2026%E5%B9%B410%E6%9C%8805%E6%97%A5/txt/09%E6%97%B632%E5%88%86.txt",
+      "sha": "f292c32a7700cd8e3945b08dd985ad17d726b961",
+      "time": "2026-10-05T09:32:00+08:00",
+      "count": 30
+    },
+    {
+      "url": "https://raw.githubusercontent.com/bobkingdom/TrendRadar/master/output/2026%E5%B9%B410%E6%9C%8805%E6%97%A5/txt/16%E6%97%B610%E5%88%86.txt",
+      "sha": "fcca61165d100f022adc6d2d14a6768ec022c434",
+      "time": "2026-10-05T16:10:00+08:00",
+      "count": 30
+    },
+    {
+      "url": "https://raw.githubusercontent.com/bobkingdom/TrendRadar/master/output/2026%E5%B9%B410%E6%9C%8804%E6%97%A5/txt/01%E6%97%B603%E5%88%86.txt",
+      "sha": "e3e010d30b01aeb96f662d31f6b09176e07890cb",
+      "time": "2026-10-04T01:03:00+08:00",
+      "count": 30
+    },
+    {
+      "url": "https://raw.githubusercontent.com/bobkingdom/TrendRadar/master/output/2026%E5%B9%B410%E6%9C%8804%E6%97%A5/txt/04%E6%97%B631%E5%88%86.txt",
+      "sha": "7ff45736634c236cf9d7cc2fdc272a075b7ea292",
+      "time": "2026-10-04T04:31:00+08:00",
+      "count": 30
+    },
+    {
+      "url": "https://raw.githubusercontent.com/bobkingdom/TrendRadar/master/output/2026%E5%B9%B410%E6%9C%8804%E6%97%A5/txt/07%E6%97%B629%E5%88%86.txt",
+      "sha": "62655968cca5cceeb0cd2ebc36a36da4df188d8f",
+      "time": "2026-10-04T07:29:00+08:00",
+      "count": 30
+    },
+    {
+      "url": "https://raw.githubusercontent.com/bobkingdom/TrendRadar/master/output/2026%E5%B9%B410%E6%9C%8804%E6%97%A5/txt/11%E6%97%B655%E5%88%86.txt",
+      "sha": "9fe5503500cfdffa84fe5e81bf4c55da6b38073d",
+      "time": "2026-10-04T11:55:00+08:00",
+      "count": 30
+    },
+    {
+      "url": "https://raw.githubusercontent.com/bobkingdom/TrendRadar/master/output/2026%E5%B9%B410%E6%9C%8804%E6%97%A5/txt/18%E6%97%B622%E5%88%86.txt",
+      "sha": "38a0e185628e9ef3c88ab41b7f5562b6955d274f",
+      "time": "2026-10-04T18:22:00+08:00",
+      "count": 30
+    },
+    {
+      "url": "https://raw.githubusercontent.com/bobkingdom/TrendRadar/master/output/2026%E5%B9%B410%E6%9C%8804%E6%97%A5/txt/23%E6%97%B638%E5%88%86.txt",
+      "sha": "2fade53446d7827f3f3e5f13a46fb873d10a57a1",
+      "time": "2026-10-04T23:38:00+08:00",
+      "count": 30
+    },
+    {
+      "url": "https://raw.githubusercontent.com/bobkingdom/TrendRadar/master/output/2026%E5%B9%B410%E6%9C%8803%E6%97%A5/txt/02%E6%97%B655%E5%88%86.txt",
+      "sha": "d7231ee0f8eb458f6cc2b03bd8aafe1826a09c87",
+      "time": "2026-10-03T02:55:00+08:00",
+      "count": 30
+    },
+    {
+      "url": "https://raw.githubusercontent.com/bobkingdom/TrendRadar/master/output/2026%E5%B9%B410%E6%9C%8803%E6%97%A5/txt/06%E6%97%B647%E5%88%86.txt",
+      "sha": "26daa993bc5b2a5aa981830fdccecc54533a4943",
+      "time": "2026-10-03T06:47:00+08:00",
+      "count": 30
+    },
+    {
+      "url": "https://raw.githubusercontent.com/bobkingdom/TrendRadar/master/output/2026%E5%B9%B410%E6%9C%8803%E6%97%A5/txt/09%E6%97%B640%E5%88%86.txt",
+      "sha": "c5ec13deb9affad0dab0a9da0b7bcef0100bca07",
+      "time": "2026-10-03T09:40:00+08:00",
+      "count": 30
+    },
+    {
+      "url": "https://raw.githubusercontent.com/bobkingdom/TrendRadar/master/output/2026%E5%B9%B410%E6%9C%8803%E6%97%A5/txt/15%E6%97%B629%E5%88%86.txt",
+      "sha": "491ecb2c953447f3a98c3b128b0fe7a5b797a82d",
+      "time": "2026-10-03T15:29:00+08:00",
+      "count": 30
+    },
+    {
+      "url": "https://raw.githubusercontent.com/bobkingdom/TrendRadar/master/output/2026%E5%B9%B410%E6%9C%8803%E6%97%A5/txt/20%E6%97%B659%E5%88%86.txt",
+      "sha": "b98382a594913ea1502e7b2ac4f9c0c4416e9aae",
+      "time": "2026-10-03T20:59:00+08:00",
+      "count": 30
+    },
+    {
+      "url": "https://raw.githubusercontent.com/bobkingdom/TrendRadar/master/output/2026%E5%B9%B410%E6%9C%8802%E6%97%A5/txt/04%E6%97%B646%E5%88%86.txt",
+      "sha": "17e86b77797a19d8078fca340161d0401f82b5a6",
+      "time": "2026-10-02T04:46:00+08:00",
+      "count": 30
+    },
+    {
+      "url": "https://raw.githubusercontent.com/bobkingdom/TrendRadar/master/output/2026%E5%B9%B410%E6%9C%8802%E6%97%A5/txt/14%E6%97%B636%E5%88%86.txt",
+      "sha": "b27e50f2ab76aa439b24f31713d791fe261d3de8",
+      "time": "2026-10-02T14:36:00+08:00",
+      "count": 30
+    },
+    {
+      "url": "https://raw.githubusercontent.com/bobkingdom/TrendRadar/master/output/2026%E5%B9%B410%E6%9C%8802%E6%97%A5/txt/21%E6%97%B629%E5%88%86.txt",
+      "sha": "3e8ae0c304ef323be3d4a3b8dab2432be7b5cce1",
+      "time": "2026-10-02T21:29:00+08:00",
+      "count": 30
+    },
+    {
+      "url": "https://raw.githubusercontent.com/bobkingdom/TrendRadar/master/output/2026%E5%B9%B410%E6%9C%8809%E6%97%A5/txt/00%E6%97%B605%E5%88%86.txt",
+      "sha": "465f2f6580648ab6d86487a52960c3f5edd32dc3",
+      "time": "2026-10-09T00:05:00+08:00",
+      "count": 30
+    },
+    {
+      "url": "https://raw.githubusercontent.com/bobkingdom/TrendRadar/master/output/2026%E5%B9%B410%E6%9C%8809%E6%97%A5/txt/05%E6%97%B646%E5%88%86.txt",
+      "sha": "dc2af9460ab1e3a866229f8999deeaa5ac6ed7c1",
+      "time": "2026-10-09T05:46:00+08:00",
+      "count": 30
+    },
+    {
+      "url": "https://raw.githubusercontent.com/bobkingdom/TrendRadar/master/output/2026%E5%B9%B410%E6%9C%8809%E6%97%A5/txt/09%E6%97%B642%E5%88%86.txt",
+      "sha": "1ec4435504b1a04fab9daed89a222ddc1ff5f11b",
+      "time": "2026-10-09T09:42:00+08:00",
+      "count": 30
+    },
+    {
+      "url": "https://raw.githubusercontent.com/bobkingdom/TrendRadar/master/output/2026%E5%B9%B410%E6%9C%8809%E6%97%A5/txt/16%E6%97%B622%E5%88%86.txt",
+      "sha": "b96e8fb62e2b5013eb741c7733d844dd21ca6422",
+      "time": "2026-10-09T16:22:00+08:00",
+      "count": 30
+    },
+    {
+      "url": "https://raw.githubusercontent.com/bobkingdom/TrendRadar/master/output/2026%E5%B9%B410%E6%9C%8809%E6%97%A5/txt/23%E6%97%B646%E5%88%86.txt",
+      "sha": "ac10c596d9df56c0a29a88a11b446a4e35cdca2d",
+      "time": "2026-10-09T23:46:00+08:00",
+      "count": 30
+    },
+    {
+      "url": "https://raw.githubusercontent.com/bobkingdom/TrendRadar/master/output/2026%E5%B9%B410%E6%9C%8806%E6%97%A5/txt/01%E6%97%B645%E5%88%86.txt",
+      "sha": "29ae6069e0af9b7cef542418ab24474183ec7386",
+      "time": "2026-10-06T01:45:00+08:00",
+      "count": 30
+    },
+    {
+      "url": "https://raw.githubusercontent.com/bobkingdom/TrendRadar/master/output/2026%E5%B9%B410%E6%9C%8806%E6%97%A5/txt/07%E6%97%B638%E5%88%86.txt",
+      "sha": "f85b139ca231a5a30d34a6746cdc5a1d5bccbf7b",
+      "time": "2026-10-06T07:38:00+08:00",
+      "count": 30
+    },
+    {
+      "url": "https://raw.githubusercontent.com/bobkingdom/TrendRadar/master/output/2026%E5%B9%B410%E6%9C%8806%E6%97%A5/txt/12%E6%97%B628%E5%88%86.txt",
+      "sha": "d0ea84ab42b28fc63448bcceb1bc7b358d222122",
+      "time": "2026-10-06T12:28:00+08:00",
+      "count": 30
+    },
+    {
+      "url": "https://raw.githubusercontent.com/bobkingdom/TrendRadar/master/output/2026%E5%B9%B410%E6%9C%8806%E6%97%A5/txt/19%E6%97%B642%E5%88%86.txt",
+      "sha": "e78678193e5c6a8d95562e0751ea951750d5df69",
+      "time": "2026-10-06T19:42:00+08:00",
+      "count": 30
+    },
+    {
+      "url": "https://raw.githubusercontent.com/bobkingdom/TrendRadar/master/output/2026%E5%B9%B410%E6%9C%8817%E6%97%A5/txt/01%E6%97%B611%E5%88%86.txt",
+      "sha": "d31d5a5c3c8f98586ac4304cc0416d646832fd94",
+      "time": "2026-10-17T01:11:00+08:00",
+      "count": 30
+    },
+    {
+      "url": "https://raw.githubusercontent.com/bobkingdom/TrendRadar/master/output/2026%E5%B9%B410%E6%9C%8817%E6%97%A5/txt/04%E6%97%B626%E5%88%86.txt",
+      "sha": "975bcc16b7742c45c93e29c559f7e79fcde4dfc0",
+      "time": "2026-10-17T04:26:00+08:00",
+      "count": 30
+    },
+    {
+      "url": "https://raw.githubusercontent.com/bobkingdom/TrendRadar/master/output/2026%E5%B9%B410%E6%9C%8817%E6%97%A5/txt/07%E6%97%B613%E5%88%86.txt",
+      "sha": "d2906971aede5bde6ab2212a628527845fed31a5",
+      "time": "2026-10-17T07:13:00+08:00",
+      "count": 30
+    },
+    {
+      "url": "https://raw.githubusercontent.com/bobkingdom/TrendRadar/master/output/2026%E5%B9%B410%E6%9C%8817%E6%97%A5/txt/10%E6%97%B641%E5%88%86.txt",
+      "sha": "78be6d8832a0bbe4a6958c2b50e57fc38d9d3dbd",
+      "time": "2026-10-17T10:41:00+08:00",
+      "count": 30
+    },
+    {
+      "url": "https://raw.githubusercontent.com/bobkingdom/TrendRadar/master/output/2026%E5%B9%B410%E6%9C%8817%E6%97%A5/txt/15%E6%97%B627%E5%88%86.txt",
+      "sha": "dd01a22fd85fe22d94e02b32c272134f810b5ca5",
+      "time": "2026-10-17T15:27:00+08:00",
+      "count": 30
+    },
+    {
+      "url": "https://raw.githubusercontent.com/bobkingdom/TrendRadar/master/output/2026%E5%B9%B410%E6%9C%8817%E6%97%A5/txt/19%E6%97%B656%E5%88%86.txt",
+      "sha": "b9ab668b0468bea2189e55636a8076dede92cf10",
+      "time": "2026-10-17T19:56:00+08:00",
+      "count": 30
+    },
+    {
+      "url": "https://raw.githubusercontent.com/bobkingdom/TrendRadar/master/output/2026%E5%B9%B410%E6%9C%8817%E6%97%A5/txt/22%E6%97%B652%E5%88%86.txt",
+      "sha": "a5f39202619c168e6394ddf09f111a42a1af8156",
+      "time": "2026-10-17T22:52:00+08:00",
+      "count": 30
+    },
+    {
+      "url": "https://raw.githubusercontent.com/bobkingdom/TrendRadar/master/output/2026%E5%B9%B410%E6%9C%8816%E6%97%A5/txt/01%E6%97%B634%E5%88%86.txt",
+      "sha": "ac3f70ab120aac0a4126e5ee2f9e6b86568f0fbf",
+      "time": "2026-10-16T01:34:00+08:00",
+      "count": 30
+    },
+    {
+      "url": "https://raw.githubusercontent.com/bobkingdom/TrendRadar/master/output/2026%E5%B9%B410%E6%9C%8816%E6%97%A5/txt/04%E6%97%B652%E5%88%86.txt",
+      "sha": "3ff3419368f8d9acb5f49c37bc60c91d82671453",
+      "time": "2026-10-16T04:52:00+08:00",
+      "count": 30
+    },
+    {
+      "url": "https://raw.githubusercontent.com/bobkingdom/TrendRadar/master/output/2026%E5%B9%B410%E6%9C%8816%E6%97%A5/txt/07%E6%97%B631%E5%88%86.txt",
+      "sha": "733ce0b4a457d5f947fcba11008a2a6965a832d0",
+      "time": "2026-10-16T07:31:00+08:00",
+      "count": 30
+    },
+    {
+      "url": "https://raw.githubusercontent.com/bobkingdom/TrendRadar/master/output/2026%E5%B9%B410%E6%9C%8816%E6%97%A5/txt/10%E6%97%B649%E5%88%86.txt",
+      "sha": "4a5d8e555b78c5a0f0b83fd5d24802e9518d6119",
+      "time": "2026-10-16T10:49:00+08:00",
+      "count": 30
+    },
+    {
+      "url": "https://raw.githubusercontent.com/bobkingdom/TrendRadar/master/output/2026%E5%B9%B410%E6%9C%8816%E6%97%A5/txt/15%E6%97%B650%E5%88%86.txt",
+      "sha": "155938faa2d9ee4f53d7c049844a788030915f88",
+      "time": "2026-10-16T15:50:00+08:00",
+      "count": 30
+    },
+    {
+      "url": "https://raw.githubusercontent.com/bobkingdom/TrendRadar/master/output/2026%E5%B9%B410%E6%9C%8816%E6%97%A5/txt/20%E6%97%B658%E5%88%86.txt",
+      "sha": "321792ec398eb2b42bb30031ed19f8271dc05623",
+      "time": "2026-10-16T20:58:00+08:00",
+      "count": 30
+    },
+    {
+      "url": "https://raw.githubusercontent.com/bobkingdom/TrendRadar/master/output/2026%E5%B9%B410%E6%9C%8813%E6%97%A5/txt/04%E6%97%B648%E5%88%86.txt",
+      "sha": "420cff70f8aec79af0952e3bbb0adb8243e21a22",
+      "time": "2026-10-13T04:48:00+08:00",
+      "count": 30
+    },
+    {
+      "url": "https://raw.githubusercontent.com/bobkingdom/TrendRadar/master/output/2026%E5%B9%B410%E6%9C%8813%E6%97%A5/txt/10%E6%97%B623%E5%88%86.txt",
+      "sha": "5b308c5f8dcfc37cbbccc3e62866dc034d3ccb38",
+      "time": "2026-10-13T10:23:00+08:00",
+      "count": 30
+    },
+    {
+      "url": "https://raw.githubusercontent.com/bobkingdom/TrendRadar/master/output/2026%E5%B9%B410%E6%9C%8813%E6%97%A5/txt/18%E6%97%B603%E5%88%86.txt",
+      "sha": "dd1be2d7c357995bd1128c8fc70bd0932f5fd776",
+      "time": "2026-10-13T18:03:00+08:00",
+      "count": 30
+    },
+    {
+      "url": "https://raw.githubusercontent.com/bobkingdom/TrendRadar/master/output/2026%E5%B9%B410%E6%9C%8815%E6%97%A5/txt/02%E6%97%B617%E5%88%86.txt",
+      "sha": "40a4c71df21989733bb849d8a51e8490fc8828a0",
+      "time": "2026-10-15T02:17:00+08:00",
+      "count": 30
+    },
+    {
+      "url": "https://raw.githubusercontent.com/bobkingdom/TrendRadar/master/output/2026%E5%B9%B410%E6%9C%8815%E6%97%A5/txt/06%E6%97%B602%E5%88%86.txt",
+      "sha": "9ddc93a8676df6d1b36a3c5e27d11cb511ef153c",
+      "time": "2026-10-15T06:02:00+08:00",
+      "count": 30
+    },
+    {
+      "url": "https://raw.githubusercontent.com/bobkingdom/TrendRadar/master/output/2026%E5%B9%B410%E6%9C%8815%E6%97%A5/txt/09%E6%97%B611%E5%88%86.txt",
+      "sha": "58570e4a3550772ff75ed90b97865b8f5748d465",
+      "time": "2026-10-15T09:11:00+08:00",
+      "count": 30
+    },
+    {
+      "url": "https://raw.githubusercontent.com/bobkingdom/TrendRadar/master/output/2026%E5%B9%B410%E6%9C%8815%E6%97%A5/txt/14%E6%97%B653%E5%88%86.txt",
+      "sha": "b8d112f13a105f550544f63e72f7eba231a3fdff",
+      "time": "2026-10-15T14:53:00+08:00",
+      "count": 30
+    },
+    {
+      "url": "https://raw.githubusercontent.com/bobkingdom/TrendRadar/master/output/2026%E5%B9%B410%E6%9C%8815%E6%97%A5/txt/20%E6%97%B624%E5%88%86.txt",
+      "sha": "81322fd47df3c5d4086c71e2120e9ed7da4bce4f",
+      "time": "2026-10-15T20:24:00+08:00",
+      "count": 30
+    },
+    {
+      "url": "https://raw.githubusercontent.com/bobkingdom/TrendRadar/master/output/2026%E5%B9%B410%E6%9C%8814%E6%97%A5/txt/01%E6%97%B632%E5%88%86.txt",
+      "sha": "1d4776c61ba4e38cf2b0b6f980129c30b03f8562",
+      "time": "2026-10-14T01:32:00+08:00",
+      "count": 30
+    },
+    {
+      "url": "https://raw.githubusercontent.com/bobkingdom/TrendRadar/master/output/2026%E5%B9%B410%E6%9C%8814%E6%97%A5/txt/06%E6%97%B613%E5%88%86.txt",
+      "sha": "be32dfc29067bfa625dd03bfc0896ece0c12af8c",
+      "time": "2026-10-14T06:13:00+08:00",
+      "count": 30
+    },
+    {
+      "url": "https://raw.githubusercontent.com/bobkingdom/TrendRadar/master/output/2026%E5%B9%B410%E6%9C%8814%E6%97%A5/txt/09%E6%97%B633%E5%88%86.txt",
+      "sha": "46ff6f81972ca2afd3e2122371ee364d0a619110",
+      "time": "2026-10-14T09:33:00+08:00",
+      "count": 30
+    },
+    {
+      "url": "https://raw.githubusercontent.com/bobkingdom/TrendRadar/master/output/2026%E5%B9%B410%E6%9C%8814%E6%97%A5/txt/15%E6%97%B602%E5%88%86.txt",
+      "sha": "135d826539cef19d93467d65321dfd01e11ff380",
+      "time": "2026-10-14T15:02:00+08:00",
+      "count": 30
+    },
+    {
+      "url": "https://raw.githubusercontent.com/bobkingdom/TrendRadar/master/output/2026%E5%B9%B410%E6%9C%8814%E6%97%A5/txt/21%E6%97%B616%E5%88%86.txt",
+      "sha": "9fafd909153667715bea990b370e4c58eb6ea5f6",
+      "time": "2026-10-14T21:16:00+08:00",
+      "count": 30
+    },
+    {
+      "url": "https://raw.githubusercontent.com/bobkingdom/TrendRadar/master/output/2026%E5%B9%B410%E6%9C%8811%E6%97%A5/txt/02%E6%97%B612%E5%88%86.txt",
+      "sha": "0ecbcdc240d11642395047c73b90e7cd5cd325b6",
+      "time": "2026-10-11T02:12:00+08:00",
+      "count": 30
+    },
+    {
+      "url": "https://raw.githubusercontent.com/bobkingdom/TrendRadar/master/output/2026%E5%B9%B410%E6%9C%8811%E6%97%A5/txt/06%E6%97%B611%E5%88%86.txt",
+      "sha": "64575e443c5b3cbb6af6b25fe6051debba53641c",
+      "time": "2026-10-11T06:11:00+08:00",
+      "count": 30
+    },
+    {
+      "url": "https://raw.githubusercontent.com/bobkingdom/TrendRadar/master/output/2026%E5%B9%B410%E6%9C%8811%E6%97%A5/txt/09%E6%97%B631%E5%88%86.txt",
+      "sha": "a4978b7a4ab74ddb55a46ce14896812511b97eff",
+      "time": "2026-10-11T09:31:00+08:00",
+      "count": 30
+    },
+    {
+      "url": "https://raw.githubusercontent.com/bobkingdom/TrendRadar/master/output/2026%E5%B9%B410%E6%9C%8811%E6%97%A5/txt/16%E6%97%B612%E5%88%86.txt",
+      "sha": "661fa23781befdaff4344345fb38af24ec2edbfa",
+      "time": "2026-10-11T16:12:00+08:00",
+      "count": 30
+    },
+    {
+      "url": "https://raw.githubusercontent.com/bobkingdom/TrendRadar/master/output/2026%E5%B9%B410%E6%9C%8811%E6%97%A5/txt/23%E6%97%B617%E5%88%86.txt",
+      "sha": "4a30b2bc3ba4f43359f190bab84e498b5c09e507",
+      "time": "2026-10-11T23:17:00+08:00",
+      "count": 30
+    },
+    {
+      "url": "https://raw.githubusercontent.com/bobkingdom/TrendRadar/master/output/2026%E5%B9%B410%E6%9C%8810%E6%97%A5/txt/04%E6%97%B630%E5%88%86.txt",
+      "sha": "610b729fec8014988ce534d97f361d8b9bdb4a92",
+      "time": "2026-10-10T04:30:00+08:00",
+      "count": 30
+    },
+    {
+      "url": "https://raw.githubusercontent.com/bobkingdom/TrendRadar/master/output/2026%E5%B9%B410%E6%9C%8810%E6%97%A5/txt/08%E6%97%B628%E5%88%86.txt",
+      "sha": "eb0f3c0ca94697868fc7bc6270c4f84965cadf04",
+      "time": "2026-10-10T08:28:00+08:00",
+      "count": 30
+    },
+    {
+      "url": "https://raw.githubusercontent.com/bobkingdom/TrendRadar/master/output/2026%E5%B9%B410%E6%9C%8810%E6%97%A5/txt/14%E6%97%B638%E5%88%86.txt",
+      "sha": "ab919ade2e67a407c72cbf013120e04edf0258d4",
+      "time": "2026-10-10T14:38:00+08:00",
+      "count": 30
+    },
+    {
+      "url": "https://raw.githubusercontent.com/bobkingdom/TrendRadar/master/output/2026%E5%B9%B410%E6%9C%8810%E6%97%A5/txt/21%E6%97%B615%E5%88%86.txt",
+      "sha": "e01af95d67abf3856b92c91cacc19311b6f0ec4d",
+      "time": "2026-10-10T21:15:00+08:00",
+      "count": 30
+    },
+    {
+      "url": "https://raw.githubusercontent.com/bobkingdom/TrendRadar/master/output/2026%E5%B9%B410%E6%9C%8812%E6%97%A5/txt/03%E6%97%B653%E5%88%86.txt",
+      "sha": "ec89fe8c4dbe378b9fc90fe928bb9b239841a510",
+      "time": "2026-10-12T03:53:00+08:00",
+      "count": 30
+    },
+    {
+      "url": "https://raw.githubusercontent.com/bobkingdom/TrendRadar/master/output/2026%E5%B9%B410%E6%9C%8812%E6%97%A5/txt/07%E6%97%B624%E5%88%86.txt",
+      "sha": "2c45978c2dd15f9c46f9c57885f519727e8ab668",
+      "time": "2026-10-12T07:24:00+08:00",
+      "count": 30
+    },
+    {
+      "url": "https://raw.githubusercontent.com/bobkingdom/TrendRadar/master/output/2026%E5%B9%B410%E6%9C%8812%E6%97%A5/txt/11%E6%97%B657%E5%88%86.txt",
+      "sha": "1bf6b3ca015135c11721658af2c643a4c96f81b2",
+      "time": "2026-10-12T11:57:00+08:00",
+      "count": 30
+    },
+    {
+      "url": "https://raw.githubusercontent.com/bobkingdom/TrendRadar/master/output/2026%E5%B9%B410%E6%9C%8812%E6%97%A5/txt/19%E6%97%B638%E5%88%86.txt",
+      "sha": "7fdc9fcf0a2b1f0acb06f1735337a4407bb231f8",
+      "time": "2026-10-12T19:38:00+08:00",
+      "count": 30
+    },
+    {
+      "url": "https://raw.githubusercontent.com/bobkingdom/TrendRadar/master/output/2026%E5%B9%B410%E6%9C%8825%E6%97%A5/txt/00%E6%97%B626%E5%88%86.txt",
+      "sha": "a3c0d2abe9e4965c11b1085349df94445f129407",
+      "time": "2026-10-25T00:26:00+08:00",
+      "count": 30
+    },
+    {
+      "url": "https://raw.githubusercontent.com/bobkingdom/TrendRadar/master/output/2026%E5%B9%B410%E6%9C%8825%E6%97%A5/txt/03%E6%97%B613%E5%88%86.txt",
+      "sha": "cf529a45789fdae0b52a8bfc6aebc887e2202150",
+      "time": "2026-10-25T03:13:00+08:00",
+      "count": 30
+    },
+    {
+      "url": "https://raw.githubusercontent.com/bobkingdom/TrendRadar/master/output/2026%E5%B9%B410%E6%9C%8825%E6%97%A5/txt/06%E6%97%B613%E5%88%86.txt",
+      "sha": "045a34c21c99830fb7e001da3d9dc85f1383b2ec",
+      "time": "2026-10-25T06:13:00+08:00",
+      "count": 30
+    },
+    {
+      "url": "https://raw.githubusercontent.com/bobkingdom/TrendRadar/master/output/2026%E5%B9%B410%E6%9C%8825%E6%97%A5/txt/08%E6%97%B645%E5%88%86.txt",
+      "sha": "a7e482e580796aa041a7c78f88e1a405ac9f050d",
+      "time": "2026-10-25T08:45:00+08:00",
+      "count": 30
+    },
+    {
+      "url": "https://raw.githubusercontent.com/bobkingdom/TrendRadar/master/output/2026%E5%B9%B410%E6%9C%8825%E6%97%A5/txt/13%E6%97%B636%E5%88%86.txt",
+      "sha": "9ed7c348a9d0bbca0044e0ea531e53f77fc8b5a0",
+      "time": "2026-10-25T13:36:00+08:00",
+      "count": 30
+    },
+    {
+      "url": "https://raw.githubusercontent.com/bobkingdom/TrendRadar/master/output/2026%E5%B9%B410%E6%9C%8825%E6%97%A5/txt/18%E6%97%B634%E5%88%86.txt",
+      "sha": "0a8d793146c873e2c557c4b2081c91a2b4eda35a",
+      "time": "2026-10-25T18:34:00+08:00",
+      "count": 30
+    },
+    {
+      "url": "https://raw.githubusercontent.com/bobkingdom/TrendRadar/master/output/2026%E5%B9%B410%E6%9C%8825%E6%97%A5/txt/22%E6%97%B644%E5%88%86.txt",
+      "sha": "f8c3683f3f78850aa5cb40a72ef3cc861507d411",
+      "time": "2026-10-25T22:44:00+08:00",
+      "count": 30
+    },
+    {
+      "url": "https://raw.githubusercontent.com/bobkingdom/TrendRadar/master/output/2026%E5%B9%B410%E6%9C%8823%E6%97%A5/txt/03%E6%97%B643%E5%88%86.txt",
+      "sha": "d0134da63fbc47ad46f8f39aae99852ce86acfb4",
+      "time": "2026-10-23T03:43:00+08:00",
+      "count": 30
+    },
+    {
+      "url": "https://raw.githubusercontent.com/bobkingdom/TrendRadar/master/output/2026%E5%B9%B410%E6%9C%8823%E6%97%A5/txt/06%E6%97%B656%E5%88%86.txt",
+      "sha": "4e2f984a1eef842128cbe752861bb17a0c577c6c",
+      "time": "2026-10-23T06:56:00+08:00",
+      "count": 30
+    },
+    {
+      "url": "https://raw.githubusercontent.com/bobkingdom/TrendRadar/master/output/2026%E5%B9%B410%E6%9C%8823%E6%97%A5/txt/09%E6%97%B610%E5%88%86.txt",
+      "sha": "7a5dc60867114761bb40cbee98ef13b28c6f1ec7",
+      "time": "2026-10-23T09:10:00+08:00",
+      "count": 30
+    },
+    {
+      "url": "https://raw.githubusercontent.com/bobkingdom/TrendRadar/master/output/2026%E5%B9%B410%E6%9C%8823%E6%97%A5/txt/14%E6%97%B653%E5%88%86.txt",
+      "sha": "389082b51c0d023f4937f6565d3b4963c658af9b",
+      "time": "2026-10-23T14:53:00+08:00",
+      "count": 30
+    },
+    {
+      "url": "https://raw.githubusercontent.com/bobkingdom/TrendRadar/master/output/2026%E5%B9%B410%E6%9C%8823%E6%97%A5/txt/20%E6%97%B622%E5%88%86.txt",
+      "sha": "b103fc9af5bcb1d4fe065827229e9235ab6fd28c",
+      "time": "2026-10-23T20:22:00+08:00",
+      "count": 30
+    },
+    {
+      "url": "https://raw.githubusercontent.com/bobkingdom/TrendRadar/master/output/2026%E5%B9%B410%E6%9C%8822%E6%97%A5/txt/01%E6%97%B651%E5%88%86.txt",
+      "sha": "96c8cb44ce90623fcdc88feea57aa248ac0625ec",
+      "time": "2026-10-22T01:51:00+08:00",
+      "count": 30
+    },
+    {
+      "url": "https://raw.githubusercontent.com/bobkingdom/TrendRadar/master/output/2026%E5%B9%B410%E6%9C%8822%E6%97%A5/txt/05%E6%97%B609%E5%88%86.txt",
+      "sha": "c731e9b82d3105281463594e531289060b7fdf1f",
+      "time": "2026-10-22T05:09:00+08:00",
+      "count": 30
+    },
+    {
+      "url": "https://raw.githubusercontent.com/bobkingdom/TrendRadar/master/output/2026%E5%B9%B410%E6%9C%8822%E6%97%A5/txt/08%E6%97%B623%E5%88%86.txt",
+      "sha": "038942be86ff23617060a754339045ece7c3d830",
+      "time": "2026-10-22T08:23:00+08:00",
+      "count": 30
+    },
+    {
+      "url": "https://raw.githubusercontent.com/bobkingdom/TrendRadar/master/output/2026%E5%B9%B410%E6%9C%8822%E6%97%A5/txt/13%E6%97%B641%E5%88%86.txt",
+      "sha": "036461bea724dab3bc6ee6577ce15b41a95d61fe",
+      "time": "2026-10-22T13:41:00+08:00",
+      "count": 30
+    },
+    {
+      "url": "https://raw.githubusercontent.com/bobkingdom/TrendRadar/master/output/2026%E5%B9%B410%E6%9C%8822%E6%97%A5/txt/19%E6%97%B602%E5%88%86.txt",
+      "sha": "b480eae890b1ca87196f0fcb1fc1ce0dbd269e0a",
+      "time": "2026-10-22T19:02:00+08:00",
+      "count": 30
+    },
+    {
+      "url": "https://raw.githubusercontent.com/bobkingdom/TrendRadar/master/output/2026%E5%B9%B410%E6%9C%8822%E6%97%A5/txt/23%E6%97%B652%E5%88%86.txt",
+      "sha": "5569a35d7f6239ff7d32e5efeeed57e057f57c79",
+      "time": "2026-10-22T23:52:00+08:00",
+      "count": 30
+    },
+    {
+      "url": "https://raw.githubusercontent.com/bobkingdom/TrendRadar/master/output/2026%E5%B9%B410%E6%9C%8819%E6%97%A5/txt/01%E6%97%B644%E5%88%86.txt",
+      "sha": "2ed4b3b4ab26f95f72dc2e88a479321f2f31e45c",
+      "time": "2026-10-19T01:44:00+08:00",
+      "count": 30
+    },
+    {
+      "url": "https://raw.githubusercontent.com/bobkingdom/TrendRadar/master/output/2026%E5%B9%B410%E6%9C%8819%E6%97%A5/txt/03%E6%97%B659%E5%88%86.txt",
+      "sha": "353dbdd19f40cb2261c61c20796c451780935979",
+      "time": "2026-10-19T03:59:00+08:00",
+      "count": 30
+    },
+    {
+      "url": "https://raw.githubusercontent.com/bobkingdom/TrendRadar/master/output/2026%E5%B9%B410%E6%9C%8819%E6%97%A5/txt/06%E6%97%B618%E5%88%86.txt",
+      "sha": "afe394584f24de369fdc42e595fb834aa258978c",
+      "time": "2026-10-19T06:18:00+08:00",
+      "count": 30
+    },
+    {
+      "url": "https://raw.githubusercontent.com/bobkingdom/TrendRadar/master/output/2026%E5%B9%B410%E6%9C%8819%E6%97%A5/txt/08%E6%97%B643%E5%88%86.txt",
+      "sha": "09f2b01cc526e7ada1c660893f12a0277c582072",
+      "time": "2026-10-19T08:43:00+08:00",
+      "count": 30
+    },
+    {
+      "url": "https://raw.githubusercontent.com/bobkingdom/TrendRadar/master/output/2026%E5%B9%B410%E6%9C%8819%E6%97%A5/txt/13%E6%97%B638%E5%88%86.txt",
+      "sha": "e1b8bf4096aca51f43e96f8b0d5d0f40e80be7ab",
+      "time": "2026-10-19T13:38:00+08:00",
+      "count": 30
+    },
+    {
+      "url": "https://raw.githubusercontent.com/bobkingdom/TrendRadar/master/output/2026%E5%B9%B410%E6%9C%8819%E6%97%A5/txt/19%E6%97%B655%E5%88%86.txt",
+      "sha": "beb09b04ee4f07e11b62a54b13940903070c2664",
+      "time": "2026-10-19T19:55:00+08:00",
+      "count": 30
+    },
+    {
+      "url": "https://raw.githubusercontent.com/bobkingdom/TrendRadar/master/output/2026%E5%B9%B410%E6%9C%8824%E6%97%A5/txt/01%E6%97%B640%E5%88%86.txt",
+      "sha": "2cf0f124ef4c859dabdaee0707714639a8923d83",
+      "time": "2026-10-24T01:40:00+08:00",
+      "count": 30
+    },
+    {
+      "url": "https://raw.githubusercontent.com/bobkingdom/TrendRadar/master/output/2026%E5%B9%B410%E6%9C%8824%E6%97%A5/txt/04%E6%97%B655%E5%88%86.txt",
+      "sha": "e76ac995905eabb320b250bd002cfeb0811e897b",
+      "time": "2026-10-24T04:55:00+08:00",
+      "count": 30
+    },
+    {
+      "url": "https://raw.githubusercontent.com/bobkingdom/TrendRadar/master/output/2026%E5%B9%B410%E6%9C%8824%E6%97%A5/txt/07%E6%97%B644%E5%88%86.txt",
+      "sha": "7e2437f1b616e994b19440fdacbd701b220bdc2c",
+      "time": "2026-10-24T07:44:00+08:00",
+      "count": 30
+    },
+    {
+      "url": "https://raw.githubusercontent.com/bobkingdom/TrendRadar/master/output/2026%E5%B9%B410%E6%9C%8824%E6%97%A5/txt/10%E6%97%B659%E5%88%86.txt",
+      "sha": "3e3b34c30abfb1caddad80ac78f966f2c30fffff",
+      "time": "2026-10-24T10:59:00+08:00",
+      "count": 30
+    },
+    {
+      "url": "https://raw.githubusercontent.com/bobkingdom/TrendRadar/master/output/2026%E5%B9%B410%E6%9C%8824%E6%97%A5/txt/15%E6%97%B658%E5%88%86.txt",
+      "sha": "0108335f4be005052477ae54691c8788e6eeb577",
+      "time": "2026-10-24T15:58:00+08:00",
+      "count": 30
+    },
+    {
+      "url": "https://raw.githubusercontent.com/bobkingdom/TrendRadar/master/output/2026%E5%B9%B410%E6%9C%8824%E6%97%A5/txt/20%E6%97%B630%E5%88%86.txt",
+      "sha": "27b074397c24ca8aed8cac13164d03cff6ca4b51",
+      "time": "2026-10-24T20:30:00+08:00",
+      "count": 30
+    },
+    {
+      "url": "https://raw.githubusercontent.com/bobkingdom/TrendRadar/master/output/2026%E5%B9%B410%E6%9C%8818%E6%97%A5/txt/01%E6%97%B643%E5%88%86.txt",
+      "sha": "53043422d4ba72254b1f78dc6502e9cf39b7afdb",
+      "time": "2026-10-18T01:43:00+08:00",
+      "count": 30
+    },
+    {
+      "url": "https://raw.githubusercontent.com/bobkingdom/TrendRadar/master/output/2026%E5%B9%B410%E6%9C%8818%E6%97%A5/txt/04%E6%97%B601%E5%88%86.txt",
+      "sha": "8ff8203d1c829965448df5981c55d9327dea9948",
+      "time": "2026-10-18T04:01:00+08:00",
+      "count": 30
+    },
+    {
+      "url": "https://raw.githubusercontent.com/bobkingdom/TrendRadar/master/output/2026%E5%B9%B410%E6%9C%8818%E6%97%A5/txt/06%E6%97%B606%E5%88%86.txt",
+      "sha": "9cf05d2980ff49b93244ac07a8f027abc76e3653",
+      "time": "2026-10-18T06:06:00+08:00",
+      "count": 30
+    },
+    {
+      "url": "https://raw.githubusercontent.com/bobkingdom/TrendRadar/master/output/2026%E5%B9%B410%E6%9C%8818%E6%97%A5/txt/08%E6%97%B634%E5%88%86.txt",
+      "sha": "42d93c0e6eee74cbaccbde3809e096cfccbe755c",
+      "time": "2026-10-18T08:34:00+08:00",
+      "count": 30
+    },
+    {
+      "url": "https://raw.githubusercontent.com/bobkingdom/TrendRadar/master/output/2026%E5%B9%B410%E6%9C%8818%E6%97%A5/txt/13%E6%97%B621%E5%88%86.txt",
+      "sha": "5d1fe30f6973bfd270f28924308f1e6d48e68489",
+      "time": "2026-10-18T13:21:00+08:00",
+      "count": 30
+    },
+    {
+      "url": "https://raw.githubusercontent.com/bobkingdom/TrendRadar/master/output/2026%E5%B9%B410%E6%9C%8818%E6%97%A5/txt/18%E6%97%B616%E5%88%86.txt",
+      "sha": "4e3474747005948bf73ffffc5c9f3da67cd4ba39",
+      "time": "2026-10-18T18:16:00+08:00",
+      "count": 30
+    },
+    {
+      "url": "https://raw.githubusercontent.com/bobkingdom/TrendRadar/master/output/2026%E5%B9%B410%E6%9C%8818%E6%97%A5/txt/22%E6%97%B615%E5%88%86.txt",
+      "sha": "eec7c7678898294ec235a602815043aabdfb0d82",
+      "time": "2026-10-18T22:15:00+08:00",
+      "count": 30
+    },
+    {
+      "url": "https://raw.githubusercontent.com/bobkingdom/TrendRadar/master/output/2026%E5%B9%B410%E6%9C%8821%E6%97%A5/txt/02%E6%97%B616%E5%88%86.txt",
+      "sha": "3e61b0ba17a87a8ef1475518a7b44ee40bd322a9",
+      "time": "2026-10-21T02:16:00+08:00",
+      "count": 30
+    },
+    {
+      "url": "https://raw.githubusercontent.com/bobkingdom/TrendRadar/master/output/2026%E5%B9%B410%E6%9C%8821%E6%97%A5/txt/06%E6%97%B602%E5%88%86.txt",
+      "sha": "f671a3d921b88c643fabd5f2e1392bd9275d42ab",
+      "time": "2026-10-21T06:02:00+08:00",
+      "count": 30
+    },
+    {
+      "url": "https://raw.githubusercontent.com/bobkingdom/TrendRadar/master/output/2026%E5%B9%B410%E6%9C%8821%E6%97%A5/txt/09%E6%97%B613%E5%88%86.txt",
+      "sha": "5280010b9a5a9cdf771fdecde7c1fd3be205f678",
+      "time": "2026-10-21T09:13:00+08:00",
+      "count": 30
+    },
+    {
+      "url": "https://raw.githubusercontent.com/bobkingdom/TrendRadar/master/output/2026%E5%B9%B410%E6%9C%8821%E6%97%A5/txt/14%E6%97%B656%E5%88%86.txt",
+      "sha": "89518767b84918a9a153f6a9ac018d01e3efd319",
+      "time": "2026-10-21T14:56:00+08:00",
+      "count": 30
+    },
+    {
+      "url": "https://raw.githubusercontent.com/bobkingdom/TrendRadar/master/output/2026%E5%B9%B410%E6%9C%8821%E6%97%A5/txt/20%E6%97%B640%E5%88%86.txt",
+      "sha": "4ed8ca61c7e727c1d0ec85bf10dd6119bcf90adc",
+      "time": "2026-10-21T20:40:00+08:00",
+      "count": 30
+    },
+    {
+      "url": "https://raw.githubusercontent.com/bobkingdom/TrendRadar/master/output/2026%E5%B9%B410%E6%9C%8820%E6%97%A5/txt/02%E6%97%B613%E5%88%86.txt",
+      "sha": "82401f7fd04408a42dbf363283b0e8e7fe92a2eb",
+      "time": "2026-10-20T02:13:00+08:00",
+      "count": 30
+    },
+    {
+      "url": "https://raw.githubusercontent.com/bobkingdom/TrendRadar/master/output/2026%E5%B9%B410%E6%9C%8820%E6%97%A5/txt/06%E6%97%B646%E5%88%86.txt",
+      "sha": "2eece757f26b035da3ea03e76251334c249bc7ff",
+      "time": "2026-10-20T06:46:00+08:00",
+      "count": 30
+    },
+    {
+      "url": "https://raw.githubusercontent.com/bobkingdom/TrendRadar/master/output/2026%E5%B9%B410%E6%9C%8820%E6%97%A5/txt/09%E6%97%B629%E5%88%86.txt",
+      "sha": "cceb63a8796d0eb6892bdf0669a5dcff3bf68eca",
+      "time": "2026-10-20T09:29:00+08:00",
+      "count": 30
+    },
+    {
+      "url": "https://raw.githubusercontent.com/bobkingdom/TrendRadar/master/output/2026%E5%B9%B410%E6%9C%8820%E6%97%A5/txt/15%E6%97%B603%E5%88%86.txt",
+      "sha": "40c78b1d4fcb05c78ee29d05bb74608bedef621c",
+      "time": "2026-10-20T15:03:00+08:00",
+      "count": 30
+    },
+    {
+      "url": "https://raw.githubusercontent.com/bobkingdom/TrendRadar/master/output/2026%E5%B9%B410%E6%9C%8820%E6%97%A5/txt/21%E6%97%B614%E5%88%86.txt",
+      "sha": "ec618dc2b49024c1bcb0b7fb9a647e73dc9506c5",
+      "time": "2026-10-20T21:14:00+08:00",
+      "count": 30
+    },
+    {
+      "url": "https://raw.githubusercontent.com/bobkingdom/TrendRadar/master/output/2026%E5%B9%B410%E6%9C%8827%E6%97%A5/txt/04%E6%97%B651%E5%88%86.txt",
+      "sha": "96ca8439d80bc80618f099ec873738c13f6460bc",
+      "time": "2026-10-27T04:51:00+08:00",
+      "count": 30
+    },
+    {
+      "url": "https://raw.githubusercontent.com/bobkingdom/TrendRadar/master/output/2026%E5%B9%B410%E6%9C%8827%E6%97%A5/txt/08%E6%97%B612%E5%88%86.txt",
+      "sha": "b6ec5d73e2a090ad72084205e5edde62e18bddde",
+      "time": "2026-10-27T08:12:00+08:00",
+      "count": 30
+    },
+    {
+      "url": "https://raw.githubusercontent.com/bobkingdom/TrendRadar/master/output/2026%E5%B9%B410%E6%9C%8827%E6%97%A5/txt/13%E6%97%B655%E5%88%86.txt",
+      "sha": "4d00e9ca4363bcb226b97cb02bcb62c74cfd0666",
+      "time": "2026-10-27T13:55:00+08:00",
+      "count": 30
+    },
+    {
+      "url": "https://raw.githubusercontent.com/bobkingdom/TrendRadar/master/output/2026%E5%B9%B410%E6%9C%8827%E6%97%A5/txt/19%E6%97%B629%E5%88%86.txt",
+      "sha": "3af57468abf01d08907dee491c318ea7f5ce2b59",
+      "time": "2026-10-27T19:29:00+08:00",
+      "count": 30
+    },
+    {
+      "url": "https://raw.githubusercontent.com/Jzoooooon/TrendRadar/master/output/2026%E5%B9%B410%E6%9C%8802%E6%97%A5/txt/04%E6%97%B658%E5%88%86.txt",
+      "sha": "0196f4941de2f308c1db39d195a4d12c787b3a47",
+      "time": "2026-10-02T04:58:00+08:00",
+      "count": 30
+    },
+    {
+      "url": "https://raw.githubusercontent.com/Jzoooooon/TrendRadar/master/output/2026%E5%B9%B410%E6%9C%8802%E6%97%A5/txt/08%E6%97%B641%E5%88%86.txt",
+      "sha": "6a8928c7a8e8cef8d2713933aa191573216b41a4",
+      "time": "2026-10-02T08:41:00+08:00",
+      "count": 30
+    },
+    {
+      "url": "https://raw.githubusercontent.com/Jzoooooon/TrendRadar/master/output/2026%E5%B9%B410%E6%9C%8802%E6%97%A5/txt/14%E6%97%B655%E5%88%86.txt",
+      "sha": "9c2486c9d7dcfa841b8b25c35ce9920023cecd77",
+      "time": "2026-10-02T14:55:00+08:00",
+      "count": 30
+    },
+    {
+      "url": "https://raw.githubusercontent.com/Jzoooooon/TrendRadar/master/output/2026%E5%B9%B410%E6%9C%8802%E6%97%A5/txt/21%E6%97%B646%E5%88%86.txt",
+      "sha": "48333a151a184e0f52725eb5faf2e3222c08eb5b",
+      "time": "2026-10-02T21:46:00+08:00",
+      "count": 30
+    },
+    {
+      "url": "https://raw.githubusercontent.com/bobkingdom/TrendRadar/master/output/2026%E5%B9%B410%E6%9C%8831%E6%97%A5/txt/00%E6%97%B629%E5%88%86.txt",
+      "sha": "3b081bdf7a4a522d2fd1e6813310e1c158e0cb63",
+      "time": "2026-10-31T00:29:00+08:00",
+      "count": 30
+    },
+    {
+      "url": "https://raw.githubusercontent.com/bobkingdom/TrendRadar/master/output/2026%E5%B9%B410%E6%9C%8831%E6%97%A5/txt/05%E6%97%B620%E5%88%86.txt",
+      "sha": "8181ce41a328d440e948565bac0f184432959671",
+      "time": "2026-10-31T05:20:00+08:00",
+      "count": 30
+    },
+    {
+      "url": "https://raw.githubusercontent.com/bobkingdom/TrendRadar/master/output/2026%E5%B9%B410%E6%9C%8831%E6%97%A5/txt/09%E6%97%B623%E5%88%86.txt",
+      "sha": "30fd1ac70dceaa078d04b37e3eac3cac4b3ab59a",
+      "time": "2026-10-31T09:23:00+08:00",
+      "count": 30
+    },
+    {
+      "url": "https://raw.githubusercontent.com/bobkingdom/TrendRadar/master/output/2026%E5%B9%B410%E6%9C%8831%E6%97%A5/txt/15%E6%97%B655%E5%88%86.txt",
+      "sha": "21aeed18c93cf089427d7466ea2bae684cbee72e",
+      "time": "2026-10-31T15:55:00+08:00",
+      "count": 30
+    },
+    {
+      "url": "https://raw.githubusercontent.com/bobkingdom/TrendRadar/master/output/2026%E5%B9%B410%E6%9C%8831%E6%97%A5/txt/22%E6%97%B614%E5%88%86.txt",
+      "sha": "dda004c2de1e3cfd80f440ca5ae4d9c4a63191ac",
+      "time": "2026-10-31T22:14:00+08:00",
+      "count": 30
+    },
+    {
+      "url": "https://raw.githubusercontent.com/bobkingdom/TrendRadar/master/output/2026%E5%B9%B410%E6%9C%8829%E6%97%A5/txt/03%E6%97%B617%E5%88%86.txt",
+      "sha": "f10d521fd8ed9a7c4fc9f7d10a71e4ac5755f69a",
+      "time": "2026-10-29T03:17:00+08:00",
+      "count": 30
+    },
+    {
+      "url": "https://raw.githubusercontent.com/bobkingdom/TrendRadar/master/output/2026%E5%B9%B410%E6%9C%8829%E6%97%A5/txt/07%E6%97%B650%E5%88%86.txt",
+      "sha": "fdbce095d7b88851eaa9a2b9c79eada88bbac0e5",
+      "time": "2026-10-29T07:50:00+08:00",
+      "count": 30
+    },
+    {
+      "url": "https://raw.githubusercontent.com/bobkingdom/TrendRadar/master/output/2026%E5%B9%B410%E6%9C%8829%E6%97%A5/txt/12%E6%97%B602%E5%88%86.txt",
+      "sha": "eb50dffacc9ba871515ed70e518d7d7b02c277e8",
+      "time": "2026-10-29T12:02:00+08:00",
+      "count": 30
+    },
+    {
+      "url": "https://raw.githubusercontent.com/bobkingdom/TrendRadar/master/output/2026%E5%B9%B410%E6%9C%8829%E6%97%A5/txt/18%E6%97%B648%E5%88%86.txt",
+      "sha": "386eb5e5765b19b9820b5a3738c14842d792b67f",
+      "time": "2026-10-29T18:48:00+08:00",
+      "count": 30
+    },
+    {
+      "url": "https://raw.githubusercontent.com/Jzoooooon/TrendRadar/master/output/2026%E5%B9%B410%E6%9C%8801%E6%97%A5/txt/04%E6%97%B644%E5%88%86.txt",
+      "sha": "b163008b024cd8a237090fc8bb9ff32e5160b57f",
+      "time": "2026-10-01T04:44:00+08:00",
+      "count": 30
+    },
+    {
+      "url": "https://raw.githubusercontent.com/Jzoooooon/TrendRadar/master/output/2026%E5%B9%B410%E6%9C%8801%E6%97%A5/txt/08%E6%97%B629%E5%88%86.txt",
+      "sha": "02f34954775d755a59038e2c3452bae20c59cba9",
+      "time": "2026-10-01T08:29:00+08:00",
+      "count": 30
+    },
+    {
+      "url": "https://raw.githubusercontent.com/Jzoooooon/TrendRadar/master/output/2026%E5%B9%B410%E6%9C%8801%E6%97%A5/txt/15%E6%97%B607%E5%88%86.txt",
+      "sha": "2534de834e5ca045a7b77f530bdf58e966152273",
+      "time": "2026-10-01T15:07:00+08:00",
+      "count": 30
+    },
+    {
+      "url": "https://raw.githubusercontent.com/Jzoooooon/TrendRadar/master/output/2026%E5%B9%B410%E6%9C%8801%E6%97%A5/txt/23%E6%97%B622%E5%88%86.txt",
+      "sha": "e037c8c2ad1374f6170deb4c380adac545bb4b48",
+      "time": "2026-10-01T23:22:00+08:00",
+      "count": 30
+    },
+    {
+      "url": "https://raw.githubusercontent.com/bobkingdom/TrendRadar/master/output/2026%E5%B9%B410%E6%9C%8828%E6%97%A5/txt/01%E6%97%B618%E5%88%86.txt",
+      "sha": "9eafdee6db3a50247dd8f99c67b97879214906fd",
+      "time": "2026-10-28T01:18:00+08:00",
+      "count": 30
+    },
+    {
+      "url": "https://raw.githubusercontent.com/bobkingdom/TrendRadar/master/output/2026%E5%B9%B410%E6%9C%8828%E6%97%A5/txt/05%E6%97%B644%E5%88%86.txt",
+      "sha": "c7fb9b870373aff464e73d9e99fc8e0c4f5b5f8c",
+      "time": "2026-10-28T05:44:00+08:00",
+      "count": 30
+    },
+    {
+      "url": "https://raw.githubusercontent.com/bobkingdom/TrendRadar/master/output/2026%E5%B9%B410%E6%9C%8828%E6%97%A5/txt/08%E6%97%B655%E5%88%86.txt",
+      "sha": "852514385253c66c649a222ddaba8862c86d8057",
+      "time": "2026-10-28T08:55:00+08:00",
+      "count": 30
+    },
+    {
+      "url": "https://raw.githubusercontent.com/bobkingdom/TrendRadar/master/output/2026%E5%B9%B410%E6%9C%8828%E6%97%A5/txt/14%E6%97%B633%E5%88%86.txt",
+      "sha": "622e61bd4a4e6d47205daa3b9de04dd2cafe8faa",
+      "time": "2026-10-28T14:33:00+08:00",
+      "count": 30
+    },
+    {
+      "url": "https://raw.githubusercontent.com/bobkingdom/TrendRadar/master/output/2026%E5%B9%B410%E6%9C%8828%E6%97%A5/txt/21%E6%97%B645%E5%88%86.txt",
+      "sha": "883e8bb16a5a0003bb9ed2cde789176491a275d2",
+      "time": "2026-10-28T21:45:00+08:00",
+      "count": 30
+    },
+    {
+      "url": "https://raw.githubusercontent.com/bobkingdom/TrendRadar/master/output/2026%E5%B9%B410%E6%9C%8826%E6%97%A5/txt/02%E6%97%B603%E5%88%86.txt",
+      "sha": "a309625bfd82dcf57948c5b7ac17677afa9b61da",
+      "time": "2026-10-26T02:03:00+08:00",
+      "count": 30
+    },
+    {
+      "url": "https://raw.githubusercontent.com/bobkingdom/TrendRadar/master/output/2026%E5%B9%B410%E6%9C%8826%E6%97%A5/txt/05%E6%97%B622%E5%88%86.txt",
+      "sha": "d5cbbc0edf64661c538f49c941fc0ca4c0fd4f88",
+      "time": "2026-10-26T05:22:00+08:00",
+      "count": 30
+    },
+    {
+      "url": "https://raw.githubusercontent.com/bobkingdom/TrendRadar/master/output/2026%E5%B9%B410%E6%9C%8826%E6%97%A5/txt/07%E6%97%B644%E5%88%86.txt",
+      "sha": "475fef45f854abe35546de786ccc3c66daa3e658",
+      "time": "2026-10-26T07:44:00+08:00",
+      "count": 30
+    },
+    {
+      "url": "https://raw.githubusercontent.com/bobkingdom/TrendRadar/master/output/2026%E5%B9%B410%E6%9C%8826%E6%97%A5/txt/10%E6%97%B650%E5%88%86.txt",
+      "sha": "913c053c7cb7e7c0ade41a5ff921a44acddc1d21",
+      "time": "2026-10-26T10:50:00+08:00",
+      "count": 30
+    },
+    {
+      "url": "https://raw.githubusercontent.com/bobkingdom/TrendRadar/master/output/2026%E5%B9%B410%E6%9C%8826%E6%97%A5/txt/16%E6%97%B625%E5%88%86.txt",
+      "sha": "856b03ec264b3076e7e941fe8f028f6fe8f0697e",
+      "time": "2026-10-26T16:25:00+08:00",
+      "count": 30
+    },
+    {
+      "url": "https://raw.githubusercontent.com/bobkingdom/TrendRadar/master/output/2026%E5%B9%B410%E6%9C%8826%E6%97%A5/txt/23%E6%97%B645%E5%88%86.txt",
+      "sha": "55e335c88558e325207ecc2649d03204dc84500a",
+      "time": "2026-10-26T23:45:00+08:00",
+      "count": 30
+    },
+    {
+      "url": "https://raw.githubusercontent.com/bobkingdom/TrendRadar/master/output/2026%E5%B9%B410%E6%9C%8830%E6%97%A5/txt/01%E6%97%B617%E5%88%86.txt",
+      "sha": "46199d95e35b40474ee17c4e267b09b686f70598",
+      "time": "2026-10-30T01:17:00+08:00",
+      "count": 30
+    },
+    {
+      "url": "https://raw.githubusercontent.com/bobkingdom/TrendRadar/master/output/2026%E5%B9%B410%E6%9C%8830%E6%97%A5/txt/06%E6%97%B622%E5%88%86.txt",
+      "sha": "9af3c66433371bf4edca04063ac921c82b7a68d0",
+      "time": "2026-10-30T06:22:00+08:00",
+      "count": 30
+    },
+    {
+      "url": "https://raw.githubusercontent.com/bobkingdom/TrendRadar/master/output/2026%E5%B9%B410%E6%9C%8830%E6%97%A5/txt/10%E6%97%B621%E5%88%86.txt",
+      "sha": "74db59045d5f55557cf6801a78c6131858594044",
+      "time": "2026-10-30T10:21:00+08:00",
+      "count": 30
+    },
+    {
+      "url": "https://raw.githubusercontent.com/bobkingdom/TrendRadar/master/output/2026%E5%B9%B410%E6%9C%8830%E6%97%A5/txt/17%E6%97%B630%E5%88%86.txt",
+      "sha": "3f76806bd57c459e3718d6e7f95b8f2bd0fa7785",
+      "time": "2026-10-30T17:30:00+08:00",
+      "count": 30
+    },
+    {
+      "url": "https://raw.githubusercontent.com/Jzoooooon/TrendRadar/master/output/2026%E5%B9%B410%E6%9C%8807%E6%97%A5/txt/04%E6%97%B611%E5%88%86.txt",
+      "sha": "942e2ca0092e32caf0aece61b947b527da60e1db",
+      "time": "2026-10-07T04:11:00+08:00",
+      "count": 30
+    },
+    {
+      "url": "https://raw.githubusercontent.com/Jzoooooon/TrendRadar/master/output/2026%E5%B9%B410%E6%9C%8807%E6%97%A5/txt/08%E6%97%B634%E5%88%86.txt",
+      "sha": "7cc421dc511d77ec27bd97174650887adc9c231f",
+      "time": "2026-10-07T08:34:00+08:00",
+      "count": 30
+    },
+    {
+      "url": "https://raw.githubusercontent.com/Jzoooooon/TrendRadar/master/output/2026%E5%B9%B410%E6%9C%8807%E6%97%A5/txt/15%E6%97%B606%E5%88%86.txt",
+      "sha": "ad415783e5469a5bd472e546b6661a00716c7c7a",
+      "time": "2026-10-07T15:06:00+08:00",
+      "count": 30
+    },
+    {
+      "url": "https://raw.githubusercontent.com/Jzoooooon/TrendRadar/master/output/2026%E5%B9%B410%E6%9C%8807%E6%97%A5/txt/23%E6%97%B628%E5%88%86.txt",
+      "sha": "fba7e6c51c2933875b7da219386dc2b6feba7bca",
+      "time": "2026-10-07T23:28:00+08:00",
+      "count": 30
+    },
+    {
+      "url": "https://raw.githubusercontent.com/Jzoooooon/TrendRadar/master/output/2026%E5%B9%B410%E6%9C%8805%E6%97%A5/txt/03%E6%97%B631%E5%88%86.txt",
+      "sha": "905e61c3749b8bc3cd4c0613ffac3b505036c8b2",
+      "time": "2026-10-05T03:31:00+08:00",
+      "count": 30
+    },
+    {
+      "url": "https://raw.githubusercontent.com/Jzoooooon/TrendRadar/master/output/2026%E5%B9%B410%E6%9C%8805%E6%97%A5/txt/06%E6%97%B659%E5%88%86.txt",
+      "sha": "d742b2218b8e80385ac60374a40505514c3c25ba",
+      "time": "2026-10-05T06:59:00+08:00",
+      "count": 30
+    },
+    {
+      "url": "https://raw.githubusercontent.com/Jzoooooon/TrendRadar/master/output/2026%E5%B9%B410%E6%9C%8805%E6%97%A5/txt/09%E6%97%B652%E5%88%86.txt",
+      "sha": "a803b6a78d89f71c36cbc0d972388987dd97d246",
+      "time": "2026-10-05T09:52:00+08:00",
+      "count": 30
+    },
+    {
+      "url": "https://raw.githubusercontent.com/Jzoooooon/TrendRadar/master/output/2026%E5%B9%B410%E6%9C%8805%E6%97%A5/txt/16%E6%97%B649%E5%88%86.txt",
+      "sha": "46de8be9aae2237ba9d2c1d1cba7f4e0ec11ed45",
+      "time": "2026-10-05T16:49:00+08:00",
+      "count": 30
+    },
+    {
+      "url": "https://raw.githubusercontent.com/Jzoooooon/TrendRadar/master/output/2026%E5%B9%B410%E6%9C%8809%E6%97%A5/txt/00%E6%97%B621%E5%88%86.txt",
+      "sha": "822597ab11189d9737d6d99eafd7db8a634bf121",
+      "time": "2026-10-09T00:21:00+08:00",
+      "count": 30
+    },
+    {
+      "url": "https://raw.githubusercontent.com/Jzoooooon/TrendRadar/master/output/2026%E5%B9%B410%E6%9C%8809%E6%97%A5/txt/05%E6%97%B658%E5%88%86.txt",
+      "sha": "d01fa0c1f10c155a420f24885078be2929cec829",
+      "time": "2026-10-09T05:58:00+08:00",
+      "count": 30
+    },
+    {
+      "url": "https://raw.githubusercontent.com/Jzoooooon/TrendRadar/master/output/2026%E5%B9%B410%E6%9C%8809%E6%97%A5/txt/10%E6%97%B602%E5%88%86.txt",
+      "sha": "8a56c88d735954963e68dc822dba3697646890e1",
+      "time": "2026-10-09T10:02:00+08:00",
+      "count": 30
+    },
+    {
+      "url": "https://raw.githubusercontent.com/Jzoooooon/TrendRadar/master/output/2026%E5%B9%B410%E6%9C%8809%E6%97%A5/txt/16%E6%97%B655%E5%88%86.txt",
+      "sha": "fed33c4eba2a04e8b4e6d1fbd2c533ca1ff2da84",
+      "time": "2026-10-09T16:55:00+08:00",
+      "count": 30
+    },
+    {
+      "url": "https://raw.githubusercontent.com/Jzoooooon/TrendRadar/master/output/2026%E5%B9%B410%E6%9C%8810%E6%97%A5/txt/00%E6%97%B604%E5%88%86.txt",
+      "sha": "cfcf8aaa3fa3b2f6db54b6cd0617f09e8561792d",
+      "time": "2026-10-10T00:04:00+08:00",
+      "count": 30
+    },
+    {
+      "url": "https://raw.githubusercontent.com/Jzoooooon/TrendRadar/master/output/2026%E5%B9%B410%E6%9C%8810%E6%97%A5/txt/05%E6%97%B634%E5%88%86.txt",
+      "sha": "7f214dfb9ca360fe251c98a018f4a7c656ee1ce5",
+      "time": "2026-10-10T05:34:00+08:00",
+      "count": 30
+    },
+    {
+      "url": "https://raw.githubusercontent.com/Jzoooooon/TrendRadar/master/output/2026%E5%B9%B410%E6%9C%8810%E6%97%A5/txt/09%E6%97%B639%E5%88%86.txt",
+      "sha": "512407f36564ade51b8838d6e13a5e15f8e9891b",
+      "time": "2026-10-10T09:39:00+08:00",
+      "count": 30
+    },
+    {
+      "url": "https://raw.githubusercontent.com/Jzoooooon/TrendRadar/master/output/2026%E5%B9%B410%E6%9C%8810%E6%97%A5/txt/16%E6%97%B622%E5%88%86.txt",
+      "sha": "974e635d09e054909c826dbaa897e249aef5ba84",
+      "time": "2026-10-10T16:22:00+08:00",
+      "count": 30
+    },
+    {
+      "url": "https://raw.githubusercontent.com/Jzoooooon/TrendRadar/master/output/2026%E5%B9%B410%E6%9C%8810%E6%97%A5/txt/23%E6%97%B613%E5%88%86.txt",
+      "sha": "c3c64351957dc702938e2bf099a8147439fbdea8",
+      "time": "2026-10-10T23:13:00+08:00",
+      "count": 30
+    },
+    {
+      "url": "https://raw.githubusercontent.com/Jzoooooon/TrendRadar/master/output/2026%E5%B9%B410%E6%9C%8808%E6%97%A5/txt/05%E6%97%B612%E5%88%86.txt",
+      "sha": "77273cb22f982e2b0dd78d58e9315ed3f319248e",
+      "time": "2026-10-08T05:12:00+08:00",
+      "count": 30
+    },
+    {
+      "url": "https://raw.githubusercontent.com/Jzoooooon/TrendRadar/master/output/2026%E5%B9%B410%E6%9C%8808%E6%97%A5/txt/09%E6%97%B645%E5%88%86.txt",
+      "sha": "40370e3e3226412efc5d7bee1c5b871afcbcd1a6",
+      "time": "2026-10-08T09:45:00+08:00",
+      "count": 30
+    },
+    {
+      "url": "https://raw.githubusercontent.com/Jzoooooon/TrendRadar/master/output/2026%E5%B9%B410%E6%9C%8808%E6%97%A5/txt/16%E6%97%B646%E5%88%86.txt",
+      "sha": "ae5b0f5534594f9730a80a5c3b4e16b872f4ec73",
+      "time": "2026-10-08T16:46:00+08:00",
+      "count": 30
+    },
+    {
+      "url": "https://raw.githubusercontent.com/Jzoooooon/TrendRadar/master/output/2026%E5%B9%B410%E6%9C%8803%E6%97%A5/txt/03%E6%97%B608%E5%88%86.txt",
+      "sha": "b3cfa8c2ab533d8d0b89e2446029db5c552d1325",
+      "time": "2026-10-03T03:08:00+08:00",
+      "count": 30
+    },
+    {
+      "url": "https://raw.githubusercontent.com/Jzoooooon/TrendRadar/master/output/2026%E5%B9%B410%E6%9C%8803%E6%97%A5/txt/07%E6%97%B641%E5%88%86.txt",
+      "sha": "731ce65b320aa6e7da6a493decd920f31dbf13b0",
+      "time": "2026-10-03T07:41:00+08:00",
+      "count": 30
+    },
+    {
+      "url": "https://raw.githubusercontent.com/Jzoooooon/TrendRadar/master/output/2026%E5%B9%B410%E6%9C%8803%E6%97%A5/txt/13%E6%97%B601%E5%88%86.txt",
+      "sha": "56b0fb9da8731f8f0e7b91050db62f757a4e585a",
+      "time": "2026-10-03T13:01:00+08:00",
+      "count": 30
+    },
+    {
+      "url": "https://raw.githubusercontent.com/Jzoooooon/TrendRadar/master/output/2026%E5%B9%B410%E6%9C%8803%E6%97%A5/txt/18%E6%97%B622%E5%88%86.txt",
+      "sha": "6a9b82ff01c2b03dc8a9cc01f1f332d89ef3df19",
+      "time": "2026-10-03T18:22:00+08:00",
+      "count": 30
+    },
+    {
+      "url": "https://raw.githubusercontent.com/Jzoooooon/TrendRadar/master/output/2026%E5%B9%B410%E6%9C%8803%E6%97%A5/txt/23%E6%97%B608%E5%88%86.txt",
+      "sha": "d2e45c7aeb0baa087c50f113d463652e25077e18",
+      "time": "2026-10-03T23:08:00+08:00",
+      "count": 30
+    },
+    {
+      "url": "https://raw.githubusercontent.com/Jzoooooon/TrendRadar/master/output/2026%E5%B9%B410%E6%9C%8804%E6%97%A5/txt/03%E6%97%B610%E5%88%86.txt",
+      "sha": "dded0c0247855758713de3525c4bf02ef61a5d19",
+      "time": "2026-10-04T03:10:00+08:00",
+      "count": 30
+    },
+    {
+      "url": "https://raw.githubusercontent.com/Jzoooooon/TrendRadar/master/output/2026%E5%B9%B410%E6%9C%8804%E6%97%A5/txt/06%E6%97%B649%E5%88%86.txt",
+      "sha": "da5c1668a249820e99111e4be20dd4a0949e467e",
+      "time": "2026-10-04T06:49:00+08:00",
+      "count": 30
+    },
+    {
+      "url": "https://raw.githubusercontent.com/Jzoooooon/TrendRadar/master/output/2026%E5%B9%B410%E6%9C%8804%E6%97%A5/txt/10%E6%97%B631%E5%88%86.txt",
+      "sha": "a171124613a44417a7211ef8819fcd0aa94155f1",
+      "time": "2026-10-04T10:31:00+08:00",
+      "count": 30
+    },
+    {
+      "url": "https://raw.githubusercontent.com/Jzoooooon/TrendRadar/master/output/2026%E5%B9%B410%E6%9C%8804%E6%97%A5/txt/17%E6%97%B635%E5%88%86.txt",
+      "sha": "89f7facedae279794c7472a46edaaaa5d539d95d",
+      "time": "2026-10-04T17:35:00+08:00",
+      "count": 30
+    },
+    {
+      "url": "https://raw.githubusercontent.com/Jzoooooon/TrendRadar/master/output/2026%E5%B9%B410%E6%9C%8804%E6%97%A5/txt/23%E6%97%B616%E5%88%86.txt",
+      "sha": "4abf128f9cd71eb6dd7882c60f83198275e4538c",
+      "time": "2026-10-04T23:16:00+08:00",
+      "count": 30
+    },
+    {
+      "url": "https://raw.githubusercontent.com/Jzoooooon/TrendRadar/master/output/2026%E5%B9%B410%E6%9C%8806%E6%97%A5/txt/02%E6%97%B617%E5%88%86.txt",
+      "sha": "dffc6c1fe50937985b996a94ae3cc173321184c0",
+      "time": "2026-10-06T02:17:00+08:00",
+      "count": 30
+    },
+    {
+      "url": "https://raw.githubusercontent.com/Jzoooooon/TrendRadar/master/output/2026%E5%B9%B410%E6%9C%8806%E6%97%A5/txt/08%E6%97%B644%E5%88%86.txt",
+      "sha": "5103ce08662da3db72c8962c20f27dd51c808e08",
+      "time": "2026-10-06T08:44:00+08:00",
+      "count": 30
+    },
+    {
+      "url": "https://raw.githubusercontent.com/Jzoooooon/TrendRadar/master/output/2026%E5%B9%B410%E6%9C%8806%E6%97%A5/txt/15%E6%97%B627%E5%88%86.txt",
+      "sha": "b84c17271cd95b0ab47ee6831b438e59448b6e90",
+      "time": "2026-10-06T15:27:00+08:00",
+      "count": 30
+    },
+    {
+      "url": "https://raw.githubusercontent.com/Jzoooooon/TrendRadar/master/output/2026%E5%B9%B410%E6%9C%8806%E6%97%A5/txt/23%E6%97%B601%E5%88%86.txt",
+      "sha": "be9856097d8a67f711bf83bc717673ccf405542a",
+      "time": "2026-10-06T23:01:00+08:00",
+      "count": 30
+    },
+    {
+      "url": "https://raw.githubusercontent.com/Jzoooooon/TrendRadar/master/output/2026%E5%B9%B410%E6%9C%8812%E6%97%A5/txt/01%E6%97%B659%E5%88%86.txt",
+      "sha": "685d98a6897323e86f871be157fee231aee9fe42",
+      "time": "2026-10-12T01:59:00+08:00",
+      "count": 30
+    },
+    {
+      "url": "https://raw.githubusercontent.com/Jzoooooon/TrendRadar/master/output/2026%E5%B9%B410%E6%9C%8812%E6%97%A5/txt/05%E6%97%B650%E5%88%86.txt",
+      "sha": "d6063a3369635e7fc0966a617949568fa4e8fbc7",
+      "time": "2026-10-12T05:50:00+08:00",
+      "count": 30
+    },
+    {
+      "url": "https://raw.githubusercontent.com/Jzoooooon/TrendRadar/master/output/2026%E5%B9%B410%E6%9C%8812%E6%97%A5/txt/09%E6%97%B610%E5%88%86.txt",
+      "sha": "98f45abb9f880905c01c1cee87121a037fc1c8ea",
+      "time": "2026-10-12T09:10:00+08:00",
+      "count": 30
+    },
+    {
+      "url": "https://raw.githubusercontent.com/Jzoooooon/TrendRadar/master/output/2026%E5%B9%B410%E6%9C%8812%E6%97%A5/txt/17%E6%97%B602%E5%88%86.txt",
+      "sha": "600c487c924033cee99dd51713cd66980a06a214",
+      "time": "2026-10-12T17:02:00+08:00",
+      "count": 30
+    },
+    {
+      "url": "https://raw.githubusercontent.com/Jzoooooon/TrendRadar/master/output/2026%E5%B9%B410%E6%9C%8818%E6%97%A5/txt/00%E6%97%B658%E5%88%86.txt",
+      "sha": "4e6ab362ea33e5e9dc21bd61d5ae5100b5167bc0",
+      "time": "2026-10-18T00:58:00+08:00",
+      "count": 30
+    },
+    {
+      "url": "https://raw.githubusercontent.com/Jzoooooon/TrendRadar/master/output/2026%E5%B9%B410%E6%9C%8818%E6%97%A5/txt/03%E6%97%B614%E5%88%86.txt",
+      "sha": "44461131b36abe99434156f76af2ab268c481d1d",
+      "time": "2026-10-18T03:14:00+08:00",
+      "count": 30
+    },
+    {
+      "url": "https://raw.githubusercontent.com/Jzoooooon/TrendRadar/master/output/2026%E5%B9%B410%E6%9C%8818%E6%97%A5/txt/06%E6%97%B609%E5%88%86.txt",
+      "sha": "f7b0e4baea483f1587f4549b5739ac0e803c344b",
+      "time": "2026-10-18T06:09:00+08:00",
+      "count": 30
+    },
+    {
+      "url": "https://raw.githubusercontent.com/Jzoooooon/TrendRadar/master/output/2026%E5%B9%B410%E6%9C%8818%E6%97%A5/txt/08%E6%97%B649%E5%88%86.txt",
+      "sha": "f731a509f4bea227af40952fc9d861090a302d1a",
+      "time": "2026-10-18T08:49:00+08:00",
+      "count": 30
+    },
+    {
+      "url": "https://raw.githubusercontent.com/Jzoooooon/TrendRadar/master/output/2026%E5%B9%B410%E6%9C%8818%E6%97%A5/txt/13%E6%97%B641%E5%88%86.txt",
+      "sha": "24dfaac9f90467bbea9002fca9659d7fa6d8c22d",
+      "time": "2026-10-18T13:41:00+08:00",
+      "count": 30
+    },
+    {
+      "url": "https://raw.githubusercontent.com/Jzoooooon/TrendRadar/master/output/2026%E5%B9%B410%E6%9C%8818%E6%97%A5/txt/18%E6%97%B650%E5%88%86.txt",
+      "sha": "58ba5db05e5d791a7c0cf7afb03a123cda476a02",
+      "time": "2026-10-18T18:50:00+08:00",
+      "count": 30
+    },
+    {
+      "url": "https://raw.githubusercontent.com/Jzoooooon/TrendRadar/master/output/2026%E5%B9%B410%E6%9C%8818%E6%97%A5/txt/22%E6%97%B627%E5%88%86.txt",
+      "sha": "aa50edaff4522a7dd6366d14fc0fd4933315413f",
+      "time": "2026-10-18T22:27:00+08:00",
+      "count": 30
+    },
+    {
+      "url": "https://raw.githubusercontent.com/Jzoooooon/TrendRadar/master/output/2026%E5%B9%B410%E6%9C%8817%E6%97%A5/txt/01%E6%97%B619%E5%88%86.txt",
+      "sha": "5ba75af859ab583b99807e95a0483e055d5ac37d",
+      "time": "2026-10-17T01:19:00+08:00",
+      "count": 30
+    },
+    {
+      "url": "https://raw.githubusercontent.com/Jzoooooon/TrendRadar/master/output/2026%E5%B9%B410%E6%9C%8817%E6%97%A5/txt/04%E6%97%B652%E5%88%86.txt",
+      "sha": "e158f5732f9d982c956845024109ec0758080c67",
+      "time": "2026-10-17T04:52:00+08:00",
+      "count": 30
+    },
+    {
+      "url": "https://raw.githubusercontent.com/Jzoooooon/TrendRadar/master/output/2026%E5%B9%B410%E6%9C%8817%E6%97%A5/txt/07%E6%97%B626%E5%88%86.txt",
+      "sha": "87b57dde0c78582286e72280a4aafa82129ee9f8",
+      "time": "2026-10-17T07:26:00+08:00",
+      "count": 30
+    },
+    {
+      "url": "https://raw.githubusercontent.com/Jzoooooon/TrendRadar/master/output/2026%E5%B9%B410%E6%9C%8817%E6%97%A5/txt/12%E6%97%B603%E5%88%86.txt",
+      "sha": "112c23756e02e8b873ffc0ae2c8f09f8ca6d79be",
+      "time": "2026-10-17T12:03:00+08:00",
+      "count": 30
+    },
+    {
+      "url": "https://raw.githubusercontent.com/Jzoooooon/TrendRadar/master/output/2026%E5%B9%B410%E6%9C%8817%E6%97%A5/txt/17%E6%97%B609%E5%88%86.txt",
+      "sha": "9d1b6c913fa6af913de5e869d8c86789075e37ed",
+      "time": "2026-10-17T17:09:00+08:00",
+      "count": 30
+    },
+    {
+      "url": "https://raw.githubusercontent.com/Jzoooooon/TrendRadar/master/output/2026%E5%B9%B410%E6%9C%8817%E6%97%A5/txt/21%E6%97%B635%E5%88%86.txt",
+      "sha": "4cb824e2f028408e8e60ba4169ae1dc90aadda9d",
+      "time": "2026-10-17T21:35:00+08:00",
+      "count": 30
+    },
+    {
+      "url": "https://raw.githubusercontent.com/Jzoooooon/TrendRadar/master/output/2026%E5%B9%B410%E6%9C%8815%E6%97%A5/txt/02%E6%97%B629%E5%88%86.txt",
+      "sha": "82adea0dc231065bb619459c776c526e6c01429a",
+      "time": "2026-10-15T02:29:00+08:00",
+      "count": 30
+    },
+    {
+      "url": "https://raw.githubusercontent.com/Jzoooooon/TrendRadar/master/output/2026%E5%B9%B410%E6%9C%8815%E6%97%A5/txt/06%E6%97%B612%E5%88%86.txt",
+      "sha": "35f3812c9274601deda2f0a66bf5aa814974aa35",
+      "time": "2026-10-15T06:12:00+08:00",
+      "count": 30
+    },
+    {
+      "url": "https://raw.githubusercontent.com/Jzoooooon/TrendRadar/master/output/2026%E5%B9%B410%E6%9C%8815%E6%97%A5/txt/09%E6%97%B622%E5%88%86.txt",
+      "sha": "f6b0cd59c715c4dfa23146cdb6a0d1cef8b61fd5",
+      "time": "2026-10-15T09:22:00+08:00",
+      "count": 30
+    },
+    {
+      "url": "https://raw.githubusercontent.com/Jzoooooon/TrendRadar/master/output/2026%E5%B9%B410%E6%9C%8815%E6%97%A5/txt/15%E6%97%B617%E5%88%86.txt",
+      "sha": "41cbb0683a3fdf10a3dbc386e36c8a2f7df7b7ca",
+      "time": "2026-10-15T15:17:00+08:00",
+      "count": 30
+    },
+    {
+      "url": "https://raw.githubusercontent.com/Jzoooooon/TrendRadar/master/output/2026%E5%B9%B410%E6%9C%8815%E6%97%A5/txt/21%E6%97%B618%E5%88%86.txt",
+      "sha": "62cecdb2a58d3a32937ffbf3629da645bd792594",
+      "time": "2026-10-15T21:18:00+08:00",
+      "count": 30
+    },
+    {
+      "url": "https://raw.githubusercontent.com/Jzoooooon/TrendRadar/master/output/2026%E5%B9%B410%E6%9C%8814%E6%97%A5/txt/01%E6%97%B631%E5%88%86.txt",
+      "sha": "beda8eb88438dc3f146c32b4fda7a22e337c51a6",
+      "time": "2026-10-14T01:31:00+08:00",
+      "count": 30
+    },
+    {
+      "url": "https://raw.githubusercontent.com/Jzoooooon/TrendRadar/master/output/2026%E5%B9%B410%E6%9C%8814%E6%97%A5/txt/06%E6%97%B634%E5%88%86.txt",
+      "sha": "66f6a0e601ffd3e31eb57382091b0fd283146cdf",
+      "time": "2026-10-14T06:34:00+08:00",
+      "count": 30
+    },
+    {
+      "url": "https://raw.githubusercontent.com/Jzoooooon/TrendRadar/master/output/2026%E5%B9%B410%E6%9C%8814%E6%97%A5/txt/09%E6%97%B647%E5%88%86.txt",
+      "sha": "b39b2f27e662d750e683e1f18458e66605f8d24a",
+      "time": "2026-10-14T09:47:00+08:00",
+      "count": 30
+    },
+    {
+      "url": "https://raw.githubusercontent.com/Jzoooooon/TrendRadar/master/output/2026%E5%B9%B410%E6%9C%8814%E6%97%A5/txt/15%E6%97%B626%E5%88%86.txt",
+      "sha": "a18ac0ad41a0387e789f50d396498653fd499913",
+      "time": "2026-10-14T15:26:00+08:00",
+      "count": 30
+    },
+    {
+      "url": "https://raw.githubusercontent.com/Jzoooooon/TrendRadar/master/output/2026%E5%B9%B410%E6%9C%8814%E6%97%A5/txt/21%E6%97%B635%E5%88%86.txt",
+      "sha": "de91943e2d328ed2ad44252dbb0c5991ef7875aa",
+      "time": "2026-10-14T21:35:00+08:00",
+      "count": 30
+    },
+    {
+      "url": "https://raw.githubusercontent.com/Jzoooooon/TrendRadar/master/output/2026%E5%B9%B410%E6%9C%8813%E6%97%A5/txt/03%E6%97%B645%E5%88%86.txt",
+      "sha": "5337cb360f3583711e37102bc321c0423513fc61",
+      "time": "2026-10-13T03:45:00+08:00",
+      "count": 30
+    },
+    {
+      "url": "https://raw.githubusercontent.com/Jzoooooon/TrendRadar/master/output/2026%E5%B9%B410%E6%9C%8813%E6%97%A5/txt/09%E6%97%B657%E5%88%86.txt",
+      "sha": "b902a592e37c2584077342d21c7db61bc3b281fd",
+      "time": "2026-10-13T09:57:00+08:00",
+      "count": 30
+    },
+    {
+      "url": "https://raw.githubusercontent.com/Jzoooooon/TrendRadar/master/output/2026%E5%B9%B410%E6%9C%8813%E6%97%A5/txt/17%E6%97%B618%E5%88%86.txt",
+      "sha": "23be8c4babd5d9a9ac8aec1544cb73ec915caa3b",
+      "time": "2026-10-13T17:18:00+08:00",
+      "count": 30
+    },
+    {
+      "url": "https://raw.githubusercontent.com/Jzoooooon/TrendRadar/master/output/2026%E5%B9%B410%E6%9C%8811%E6%97%A5/txt/03%E6%97%B659%E5%88%86.txt",
+      "sha": "99821856c80b97a00b211b14663f854a7b53790e",
+      "time": "2026-10-11T03:59:00+08:00",
+      "count": 30
+    },
+    {
+      "url": "https://raw.githubusercontent.com/Jzoooooon/TrendRadar/master/output/2026%E5%B9%B410%E6%9C%8811%E6%97%A5/txt/07%E6%97%B628%E5%88%86.txt",
+      "sha": "a61833d85232697df3a8a5ed38476675f0425699",
+      "time": "2026-10-11T07:28:00+08:00",
+      "count": 30
+    },
+    {
+      "url": "https://raw.githubusercontent.com/Jzoooooon/TrendRadar/master/output/2026%E5%B9%B410%E6%9C%8811%E6%97%A5/txt/13%E6%97%B627%E5%88%86.txt",
+      "sha": "3aab68e7b385dc5cc592a7ff84e12324cc2f3ad0",
+      "time": "2026-10-11T13:27:00+08:00",
+      "count": 30
+    },
+    {
+      "url": "https://raw.githubusercontent.com/Jzoooooon/TrendRadar/master/output/2026%E5%B9%B410%E6%9C%8811%E6%97%A5/txt/20%E6%97%B635%E5%88%86.txt",
+      "sha": "457b0546f5becc6acfc1bd3422c35e117e130cd9",
+      "time": "2026-10-11T20:35:00+08:00",
+      "count": 30
+    },
+    {
+      "url": "https://raw.githubusercontent.com/Jzoooooon/TrendRadar/master/output/2026%E5%B9%B410%E6%9C%8816%E6%97%A5/txt/02%E6%97%B611%E5%88%86.txt",
+      "sha": "2151671a1a5bf2e3b830e8a3f16ce2e253a5f67a",
+      "time": "2026-10-16T02:11:00+08:00",
+      "count": 30
+    },
+    {
+      "url": "https://raw.githubusercontent.com/Jzoooooon/TrendRadar/master/output/2026%E5%B9%B410%E6%9C%8816%E6%97%A5/txt/06%E6%97%B606%E5%88%86.txt",
+      "sha": "37db976d2aee2a90c4cee8721383b1a01a86c32c",
+      "time": "2026-10-16T06:06:00+08:00",
+      "count": 30
+    },
+    {
+      "url": "https://raw.githubusercontent.com/Jzoooooon/TrendRadar/master/output/2026%E5%B9%B410%E6%9C%8816%E6%97%A5/txt/09%E6%97%B609%E5%88%86.txt",
+      "sha": "971c451a3bb4f3b89c6e52ffa182429c3d4a644d",
+      "time": "2026-10-16T09:09:00+08:00",
+      "count": 30
+    },
+    {
+      "url": "https://raw.githubusercontent.com/Jzoooooon/TrendRadar/master/output/2026%E5%B9%B410%E6%9C%8816%E6%97%A5/txt/15%E6%97%B601%E5%88%86.txt",
+      "sha": "ccda0fdcdac79ea072102a02cf8c291398275680",
+      "time": "2026-10-16T15:01:00+08:00",
+      "count": 30
+    },
+    {
+      "url": "https://raw.githubusercontent.com/Jzoooooon/TrendRadar/master/output/2026%E5%B9%B410%E6%9C%8816%E6%97%A5/txt/20%E6%97%B618%E5%88%86.txt",
+      "sha": "59e67fe4cb72b1c7ec27a71a88d41a2dd0b2826f",
+      "time": "2026-10-16T20:18:00+08:00",
+      "count": 30
+    },
+    {
+      "url": "https://raw.githubusercontent.com/Jzoooooon/TrendRadar/master/output/2026%E5%B9%B410%E6%9C%8825%E6%97%A5/txt/01%E6%97%B620%E5%88%86.txt",
+      "sha": "416a7a3e930088ca4c008e9e340d5b59612aca20",
+      "time": "2026-10-25T01:20:00+08:00",
+      "count": 30
+    },
+    {
+      "url": "https://raw.githubusercontent.com/Jzoooooon/TrendRadar/master/output/2026%E5%B9%B410%E6%9C%8825%E6%97%A5/txt/04%E6%97%B635%E5%88%86.txt",
+      "sha": "d5eadd531e67117cf058746c6c21910793a6bdf1",
+      "time": "2026-10-25T04:35:00+08:00",
+      "count": 30
+    },
+    {
+      "url": "https://raw.githubusercontent.com/Jzoooooon/TrendRadar/master/output/2026%E5%B9%B410%E6%9C%8825%E6%97%A5/txt/07%E6%97%B604%E5%88%86.txt",
+      "sha": "9a04a15a6a4f49da3e4c49e95734d6591f59fdc8",
+      "time": "2026-10-25T07:04:00+08:00",
+      "count": 30
+    },
+    {
+      "url": "https://raw.githubusercontent.com/Jzoooooon/TrendRadar/master/output/2026%E5%B9%B410%E6%9C%8825%E6%97%A5/txt/12%E6%97%B621%E5%88%86.txt",
+      "sha": "b15fd33e7f76263b7acb5f8d14997ae2102c4c32",
+      "time": "2026-10-25T12:21:00+08:00",
+      "count": 30
+    },
+    {
+      "url": "https://raw.githubusercontent.com/Jzoooooon/TrendRadar/master/output/2026%E5%B9%B410%E6%9C%8825%E6%97%A5/txt/17%E6%97%B642%E5%88%86.txt",
+      "sha": "6a63b0286ece3606f7f280436edeb54d4a08b5c2",
+      "time": "2026-10-25T17:42:00+08:00",
+      "count": 30
+    },
+    {
+      "url": "https://raw.githubusercontent.com/Jzoooooon/TrendRadar/master/output/2026%E5%B9%B410%E6%9C%8825%E6%97%A5/txt/22%E6%97%B614%E5%88%86.txt",
+      "sha": "6f743da095b14a32a5f6e65d6764dca02bc5d1a2",
+      "time": "2026-10-25T22:14:00+08:00",
+      "count": 30
+    },
+    {
+      "url": "https://raw.githubusercontent.com/Jzoooooon/TrendRadar/master/output/2026%E5%B9%B410%E6%9C%8824%E6%97%A5/txt/03%E6%97%B602%E5%88%86.txt",
+      "sha": "f00d43f1dce624f049bf1e56b4d0e8c6dc9c4554",
+      "time": "2026-10-24T03:02:00+08:00",
+      "count": 30
+    },
+    {
+      "url": "https://raw.githubusercontent.com/Jzoooooon/TrendRadar/master/output/2026%E5%B9%B410%E6%9C%8824%E6%97%A5/txt/07%E6%97%B601%E5%88%86.txt",
+      "sha": "1dcdd11f97af30a8ef2e8bb4f43816586cf1d493",
+      "time": "2026-10-24T07:01:00+08:00",
+      "count": 30
+    },
+    {
+      "url": "https://raw.githubusercontent.com/Jzoooooon/TrendRadar/master/output/2026%E5%B9%B410%E6%9C%8824%E6%97%A5/txt/12%E6%97%B617%E5%88%86.txt",
+      "sha": "606d6573d8e05407e28b6b4b1dd52569c0da1747",
+      "time": "2026-10-24T12:17:00+08:00",
+      "count": 30
+    },
+    {
+      "url": "https://raw.githubusercontent.com/Jzoooooon/TrendRadar/master/output/2026%E5%B9%B410%E6%9C%8824%E6%97%A5/txt/17%E6%97%B624%E5%88%86.txt",
+      "sha": "3c8fc924903930f562d37d4583ab6274ea6fbc0f",
+      "time": "2026-10-24T17:24:00+08:00",
+      "count": 30
+    },
+    {
+      "url": "https://raw.githubusercontent.com/Jzoooooon/TrendRadar/master/output/2026%E5%B9%B410%E6%9C%8824%E6%97%A5/txt/21%E6%97%B656%E5%88%86.txt",
+      "sha": "61008f82df2e3cf1146a0b5cfddb3b688fb04b7e",
+      "time": "2026-10-24T21:56:00+08:00",
+      "count": 30
+    },
+    {
+      "url": "https://raw.githubusercontent.com/Jzoooooon/TrendRadar/master/output/2026%E5%B9%B410%E6%9C%8826%E6%97%A5/txt/02%E6%97%B620%E5%88%86.txt",
+      "sha": "cff113a710c3dcb11cb48ded9a4a03dc4680dfe1",
+      "time": "2026-10-26T02:20:00+08:00",
+      "count": 30
+    },
+    {
+      "url": "https://raw.githubusercontent.com/Jzoooooon/TrendRadar/master/output/2026%E5%B9%B410%E6%9C%8826%E6%97%A5/txt/05%E6%97%B638%E5%88%86.txt",
+      "sha": "e772a2240c75d3bb7eddbff7f537c0ea19fe9b8a",
+      "time": "2026-10-26T05:38:00+08:00",
+      "count": 30
+    },
+    {
+      "url": "https://raw.githubusercontent.com/Jzoooooon/TrendRadar/master/output/2026%E5%B9%B410%E6%9C%8826%E6%97%A5/txt/08%E6%97%B603%E5%88%86.txt",
+      "sha": "ef0f6f56fac1391fd0413e8286ba90ca1667f461",
+      "time": "2026-10-26T08:03:00+08:00",
+      "count": 30
+    },
+    {
+      "url": "https://raw.githubusercontent.com/Jzoooooon/TrendRadar/master/output/2026%E5%B9%B410%E6%9C%8826%E6%97%A5/txt/13%E6%97%B657%E5%88%86.txt",
+      "sha": "94892f7ccbba5399bc081778b5854ca3c9267461",
+      "time": "2026-10-26T13:57:00+08:00",
+      "count": 30
+    },
+    {
+      "url": "https://raw.githubusercontent.com/Jzoooooon/TrendRadar/master/output/2026%E5%B9%B410%E6%9C%8826%E6%97%A5/txt/20%E6%97%B647%E5%88%86.txt",
+      "sha": "2d1de4d1e82827902a5f02e326280ff654c8562d",
+      "time": "2026-10-26T20:47:00+08:00",
+      "count": 30
+    },
+    {
+      "url": "https://raw.githubusercontent.com/Jzoooooon/TrendRadar/master/output/2026%E5%B9%B410%E6%9C%8823%E6%97%A5/txt/03%E6%97%B656%E5%88%86.txt",
+      "sha": "f807e0dc0806ecbcac4f7ba3f38eb74334467c4c",
+      "time": "2026-10-23T03:56:00+08:00",
+      "count": 30
+    },
+    {
+      "url": "https://raw.githubusercontent.com/Jzoooooon/TrendRadar/master/output/2026%E5%B9%B410%E6%9C%8823%E6%97%A5/txt/07%E6%97%B611%E5%88%86.txt",
+      "sha": "c9c77a3dbd0c5b26de90e23453a931a3403d7088",
+      "time": "2026-10-23T07:11:00+08:00",
+      "count": 30
+    },
+    {
+      "url": "https://raw.githubusercontent.com/Jzoooooon/TrendRadar/master/output/2026%E5%B9%B410%E6%9C%8823%E6%97%A5/txt/12%E6%97%B627%E5%88%86.txt",
+      "sha": "ad0c6ff33cb124cd0eb241054fd843c0b03381a0",
+      "time": "2026-10-23T12:27:00+08:00",
+      "count": 30
+    },
+    {
+      "url": "https://raw.githubusercontent.com/Jzoooooon/TrendRadar/master/output/2026%E5%B9%B410%E6%9C%8823%E6%97%A5/txt/17%E6%97%B654%E5%88%86.txt",
+      "sha": "48006d04d087536e9f2ed441df18c956058ec165",
+      "time": "2026-10-23T17:54:00+08:00",
+      "count": 30
+    },
+    {
+      "url": "https://raw.githubusercontent.com/Jzoooooon/TrendRadar/master/output/2026%E5%B9%B410%E6%9C%8823%E6%97%A5/txt/22%E6%97%B653%E5%88%86.txt",
+      "sha": "7a7c04047964d660d3676f8509071cdf076cdf6f",
+      "time": "2026-10-23T22:53:00+08:00",
+      "count": 30
+    },
+    {
+      "url": "https://raw.githubusercontent.com/Jzoooooon/TrendRadar/master/output/2026%E5%B9%B410%E6%9C%8819%E6%97%A5/txt/01%E6%97%B659%E5%88%86.txt",
+      "sha": "2823b3ca7cb373ed4835c6b1a44d2b2dce58ddbf",
+      "time": "2026-10-19T01:59:00+08:00",
+      "count": 30
+    },
+    {
+      "url": "https://raw.githubusercontent.com/Jzoooooon/TrendRadar/master/output/2026%E5%B9%B410%E6%9C%8819%E6%97%A5/txt/04%E6%97%B633%E5%88%86.txt",
+      "sha": "bbfca185c7b3a9638e25c1af78a3c41b50a980ca",
+      "time": "2026-10-19T04:33:00+08:00",
+      "count": 30
+    },
+    {
+      "url": "https://raw.githubusercontent.com/Jzoooooon/TrendRadar/master/output/2026%E5%B9%B410%E6%9C%8819%E6%97%A5/txt/06%E6%97%B658%E5%88%86.txt",
+      "sha": "a5b9a6fb2f0a77eb6b046838625b7124ddf569d9",
+      "time": "2026-10-19T06:58:00+08:00",
+      "count": 30
+    },
+    {
+      "url": "https://raw.githubusercontent.com/Jzoooooon/TrendRadar/master/output/2026%E5%B9%B410%E6%9C%8819%E6%97%A5/txt/09%E6%97%B605%E5%88%86.txt",
+      "sha": "a1ad3b20b1bf5adbe69a306261f35ad389170e6a",
+      "time": "2026-10-19T09:05:00+08:00",
+      "count": 30
+    },
+    {
+      "url": "https://raw.githubusercontent.com/Jzoooooon/TrendRadar/master/output/2026%E5%B9%B410%E6%9C%8819%E6%97%A5/txt/15%E6%97%B637%E5%88%86.txt",
+      "sha": "0cdf95ec678a68c8d199fffbcc61dfc989c243ce",
+      "time": "2026-10-19T15:37:00+08:00",
+      "count": 30
+    },
+    {
+      "url": "https://raw.githubusercontent.com/Jzoooooon/TrendRadar/master/output/2026%E5%B9%B410%E6%9C%8819%E6%97%A5/txt/23%E6%97%B629%E5%88%86.txt",
+      "sha": "c7d578aa7bd7b05c4234330b50aef59378be777c",
+      "time": "2026-10-19T23:29:00+08:00",
+      "count": 30
+    },
+    {
+      "url": "https://raw.githubusercontent.com/Jzoooooon/TrendRadar/master/output/2026%E5%B9%B410%E6%9C%8820%E6%97%A5/txt/04%E6%97%B659%E5%88%86.txt",
+      "sha": "f618a4df8715242183cc32bfe1915445e9f208e5",
+      "time": "2026-10-20T04:59:00+08:00",
+      "count": 30
+    },
+    {
+      "url": "https://raw.githubusercontent.com/Jzoooooon/TrendRadar/master/output/2026%E5%B9%B410%E6%9C%8820%E6%97%A5/txt/08%E6%97%B614%E5%88%86.txt",
+      "sha": "32a1dec3757b7e2aaa3f48a4059523175709cff3",
+      "time": "2026-10-20T08:14:00+08:00",
+      "count": 30
+    },
+    {
+      "url": "https://raw.githubusercontent.com/Jzoooooon/TrendRadar/master/output/2026%E5%B9%B410%E6%9C%8820%E6%97%A5/txt/13%E6%97%B652%E5%88%86.txt",
+      "sha": "4ce967cd526a1915048c39623e76368ef29a1f1b",
+      "time": "2026-10-20T13:52:00+08:00",
+      "count": 30
+    },
+    {
+      "url": "https://raw.githubusercontent.com/Jzoooooon/TrendRadar/master/output/2026%E5%B9%B410%E6%9C%8820%E6%97%A5/txt/19%E6%97%B621%E5%88%86.txt",
+      "sha": "5e4818f78744103dc411566ec8a9348bc4a0b839",
+      "time": "2026-10-20T19:21:00+08:00",
+      "count": 30
+    },
+    {
+      "url": "https://raw.githubusercontent.com/Jzoooooon/TrendRadar/master/output/2026%E5%B9%B410%E6%9C%8821%E6%97%A5/txt/00%E6%97%B646%E5%88%86.txt",
+      "sha": "cd880c5058575cd7c2227efeeaeead3884a3787d",
+      "time": "2026-10-21T00:46:00+08:00",
+      "count": 30
+    },
+    {
+      "url": "https://raw.githubusercontent.com/Jzoooooon/TrendRadar/master/output/2026%E5%B9%B410%E6%9C%8821%E6%97%A5/txt/04%E6%97%B625%E5%88%86.txt",
+      "sha": "9c8b1d805483aa7bb2eee62e0790a106e660dc21",
+      "time": "2026-10-21T04:25:00+08:00",
+      "count": 30
+    },
+    {
+      "url": "https://raw.githubusercontent.com/Jzoooooon/TrendRadar/master/output/2026%E5%B9%B410%E6%9C%8821%E6%97%A5/txt/07%E6%97%B646%E5%88%86.txt",
+      "sha": "1f11ee5d62b8385df8297e3c39832140c917d0d5",
+      "time": "2026-10-21T07:46:00+08:00",
+      "count": 30
+    },
+    {
+      "url": "https://raw.githubusercontent.com/Jzoooooon/TrendRadar/master/output/2026%E5%B9%B410%E6%9C%8821%E6%97%A5/txt/12%E6%97%B623%E5%88%86.txt",
+      "sha": "e7ac591e98653d17e0c3151d61a5eb21f17ffe6b",
+      "time": "2026-10-21T12:23:00+08:00",
+      "count": 30
+    },
+    {
+      "url": "https://raw.githubusercontent.com/Jzoooooon/TrendRadar/master/output/2026%E5%B9%B410%E6%9C%8821%E6%97%A5/txt/18%E6%97%B600%E5%88%86.txt",
+      "sha": "cffbb9d3f87f9ca8499b982140ae39eea2de5097",
+      "time": "2026-10-21T18:00:00+08:00",
+      "count": 30
+    },
+    {
+      "url": "https://raw.githubusercontent.com/Jzoooooon/TrendRadar/master/output/2026%E5%B9%B410%E6%9C%8821%E6%97%A5/txt/23%E6%97%B606%E5%88%86.txt",
+      "sha": "2e3c9d3c8e3d4400167722942994cbabeb9cf5d1",
+      "time": "2026-10-21T23:06:00+08:00",
+      "count": 30
+    },
+    {
+      "url": "https://raw.githubusercontent.com/Jzoooooon/TrendRadar/master/output/2026%E5%B9%B410%E6%9C%8822%E6%97%A5/txt/04%E6%97%B602%E5%88%86.txt",
+      "sha": "9589ec0cfbfe76f66e910c8a1fd638c159d350cb",
+      "time": "2026-10-22T04:02:00+08:00",
+      "count": 30
+    },
+    {
+      "url": "https://raw.githubusercontent.com/Jzoooooon/TrendRadar/master/output/2026%E5%B9%B410%E6%9C%8822%E6%97%A5/txt/07%E6%97%B658%E5%88%86.txt",
+      "sha": "c3ec7b6fee6d5de8d60b460eca6f8567eb036ec1",
+      "time": "2026-10-22T07:58:00+08:00",
+      "count": 30
+    },
+    {
+      "url": "https://raw.githubusercontent.com/Jzoooooon/TrendRadar/master/output/2026%E5%B9%B410%E6%9C%8822%E6%97%A5/txt/12%E6%97%B629%E5%88%86.txt",
+      "sha": "e521bcc8d8784b299d85c1bb8ac75cb6808c254b",
+      "time": "2026-10-22T12:29:00+08:00",
+      "count": 30
+    },
+    {
+      "url": "https://raw.githubusercontent.com/Jzoooooon/TrendRadar/master/output/2026%E5%B9%B410%E6%9C%8822%E6%97%A5/txt/18%E6%97%B600%E5%88%86.txt",
+      "sha": "eb8bd8bad48d4226b82d1d33dd3f8cf8503bf640",
+      "time": "2026-10-22T18:00:00+08:00",
+      "count": 30
+    },
+    {
+      "url": "https://raw.githubusercontent.com/Jzoooooon/TrendRadar/master/output/2026%E5%B9%B410%E6%9C%8822%E6%97%A5/txt/23%E6%97%B607%E5%88%86.txt",
+      "sha": "a265e1b3572312dda0c96ebcc96cde9f522ac828",
+      "time": "2026-10-22T23:07:00+08:00",
+      "count": 30
+    },
+    {
+      "url": "https://raw.githubusercontent.com/Jzoooooon/TrendRadar/master/output/2026%E5%B9%B410%E6%9C%8831%E6%97%A5/txt/03%E6%97%B615%E5%88%86.txt",
+      "sha": "f3842c946b35f1eebf0dc74376e9b779bea14a4a",
+      "time": "2026-10-31T03:15:00+08:00",
+      "count": 30
+    },
+    {
+      "url": "https://raw.githubusercontent.com/Jzoooooon/TrendRadar/master/output/2026%E5%B9%B410%E6%9C%8831%E6%97%A5/txt/07%E6%97%B636%E5%88%86.txt",
+      "sha": "a19ced7abf0929e3bfd060b6976fb8febdaf6374",
+      "time": "2026-10-31T07:36:00+08:00",
+      "count": 30
+    },
+    {
+      "url": "https://raw.githubusercontent.com/Jzoooooon/TrendRadar/master/output/2026%E5%B9%B410%E6%9C%8831%E6%97%A5/txt/13%E6%97%B613%E5%88%86.txt",
+      "sha": "0c40387a510e6b4f536ecbc82e39d3651ede30b1",
+      "time": "2026-10-31T13:13:00+08:00",
+      "count": 30
+    },
+    {
+      "url": "https://raw.githubusercontent.com/Jzoooooon/TrendRadar/master/output/2026%E5%B9%B410%E6%9C%8831%E6%97%A5/txt/20%E6%97%B606%E5%88%86.txt",
+      "sha": "53003dcedf1b749f60475c52949e408e0fa36aa5",
+      "time": "2026-10-31T20:06:00+08:00",
+      "count": 30
+    },
+    {
+      "url": "https://raw.githubusercontent.com/Jzoooooon/TrendRadar/master/output/2026%E5%B9%B410%E6%9C%8829%E6%97%A5/txt/04%E6%97%B656%E5%88%86.txt",
+      "sha": "8f7e052b72486aa773ba815f46a2aeff290d1e75",
+      "time": "2026-10-29T04:56:00+08:00",
+      "count": 30
+    },
+    {
+      "url": "https://raw.githubusercontent.com/Jzoooooon/TrendRadar/master/output/2026%E5%B9%B410%E6%9C%8829%E6%97%A5/txt/08%E6%97%B645%E5%88%86.txt",
+      "sha": "3d3c5fe9dd68c76e50ac64bb27140662dfdd7f98",
+      "time": "2026-10-29T08:45:00+08:00",
+      "count": 30
+    },
+    {
+      "url": "https://raw.githubusercontent.com/Jzoooooon/TrendRadar/master/output/2026%E5%B9%B410%E6%9C%8829%E6%97%A5/txt/14%E6%97%B655%E5%88%86.txt",
+      "sha": "52eb2cc5987c777e36a0d7e76b51ba12a1353669",
+      "time": "2026-10-29T14:55:00+08:00",
+      "count": 30
+    },
+    {
+      "url": "https://raw.githubusercontent.com/Jzoooooon/TrendRadar/master/output/2026%E5%B9%B410%E6%9C%8829%E6%97%A5/txt/22%E6%97%B605%E5%88%86.txt",
+      "sha": "ad8cfb1a4d76ac88b6e9dd225692756e94685531",
+      "time": "2026-10-29T22:05:00+08:00",
+      "count": 30
+    },
+    {
+      "url": "https://raw.githubusercontent.com/Jzoooooon/TrendRadar/master/output/2026%E5%B9%B410%E6%9C%8830%E6%97%A5/txt/04%E6%97%B610%E5%88%86.txt",
+      "sha": "8f79aa9f7216c9fcdf845e874e3ac032bd16c0e1",
+      "time": "2026-10-30T04:10:00+08:00",
+      "count": 30
+    },
+    {
+      "url": "https://raw.githubusercontent.com/Jzoooooon/TrendRadar/master/output/2026%E5%B9%B410%E6%9C%8830%E6%97%A5/txt/08%E6%97%B645%E5%88%86.txt",
+      "sha": "f91929a8aac21f26a873ec2f1f51570dfe427e41",
+      "time": "2026-10-30T08:45:00+08:00",
+      "count": 30
+    },
+    {
+      "url": "https://raw.githubusercontent.com/Jzoooooon/TrendRadar/master/output/2026%E5%B9%B410%E6%9C%8830%E6%97%A5/txt/14%E6%97%B658%E5%88%86.txt",
+      "sha": "207c1c3cfdc1299a1103359f1881f7286fb8b523",
+      "time": "2026-10-30T14:58:00+08:00",
+      "count": 30
+    },
+    {
+      "url": "https://raw.githubusercontent.com/Jzoooooon/TrendRadar/master/output/2026%E5%B9%B410%E6%9C%8830%E6%97%A5/txt/22%E6%97%B601%E5%88%86.txt",
+      "sha": "6ecfa31e8ce4987dce1f686a39fb04523cad5ee2",
+      "time": "2026-10-30T22:01:00+08:00",
+      "count": 30
+    },
+    {
+      "url": "https://raw.githubusercontent.com/Jzoooooon/TrendRadar/master/output/2026%E5%B9%B410%E6%9C%8828%E6%97%A5/txt/00%E6%97%B623%E5%88%86.txt",
+      "sha": "b379340eb0cd6bbbc61c6fa0f4f93d10aac847dc",
+      "time": "2026-10-28T00:23:00+08:00",
+      "count": 30
+    },
+    {
+      "url": "https://raw.githubusercontent.com/Jzoooooon/TrendRadar/master/output/2026%E5%B9%B410%E6%9C%8828%E6%97%A5/txt/05%E6%97%B612%E5%88%86.txt",
+      "sha": "42687d55ab18260f69d926a3fd2af09cb584f41d",
+      "time": "2026-10-28T05:12:00+08:00",
+      "count": 30
+    },
+    {
+      "url": "https://raw.githubusercontent.com/Jzoooooon/TrendRadar/master/output/2026%E5%B9%B410%E6%9C%8828%E6%97%A5/txt/09%E6%97%B607%E5%88%86.txt",
+      "sha": "8dfd2f1faa653a3b111257c366465a870b35d680",
+      "time": "2026-10-28T09:07:00+08:00",
+      "count": 30
+    },
+    {
+      "url": "https://raw.githubusercontent.com/Jzoooooon/TrendRadar/master/output/2026%E5%B9%B410%E6%9C%8828%E6%97%A5/txt/16%E6%97%B614%E5%88%86.txt",
+      "sha": "8fd2536ef3b9c397e088fed32977d9db73046cfd",
+      "time": "2026-10-28T16:14:00+08:00",
+      "count": 30
+    },
+    {
+      "url": "https://raw.githubusercontent.com/Jzoooooon/TrendRadar/master/output/2026%E5%B9%B410%E6%9C%8828%E6%97%A5/txt/23%E6%97%B654%E5%88%86.txt",
+      "sha": "cc74fe0955f8818ee41decea46577e6191ee8931",
+      "time": "2026-10-28T23:54:00+08:00",
+      "count": 30
+    },
+    {
+      "url": "https://raw.githubusercontent.com/Jzoooooon/TrendRadar/master/output/2026%E5%B9%B410%E6%9C%8827%E6%97%A5/txt/03%E6%97%B608%E5%88%86.txt",
+      "sha": "6da5013a32cb11419d24ec8f49278c3ad3414f71",
+      "time": "2026-10-27T03:08:00+08:00",
+      "count": 30
+    },
+    {
+      "url": "https://raw.githubusercontent.com/Jzoooooon/TrendRadar/master/output/2026%E5%B9%B410%E6%9C%8827%E6%97%A5/txt/07%E6%97%B643%E5%88%86.txt",
+      "sha": "098631e75c6276fa7207b0459c19ec3d5b6e1369",
+      "time": "2026-10-27T07:43:00+08:00",
+      "count": 30
+    },
+    {
+      "url": "https://raw.githubusercontent.com/Jzoooooon/TrendRadar/master/output/2026%E5%B9%B410%E6%9C%8827%E6%97%A5/txt/12%E6%97%B643%E5%88%86.txt",
+      "sha": "8d76897d6b7e46a322ca8084b186318e7d3abe4c",
+      "time": "2026-10-27T12:43:00+08:00",
+      "count": 30
+    },
+    {
+      "url": "https://raw.githubusercontent.com/Jzoooooon/TrendRadar/master/output/2026%E5%B9%B410%E6%9C%8827%E6%97%A5/txt/18%E6%97%B621%E5%88%86.txt",
+      "sha": "a8ba56f7c93da78036478c31c86f437cbead0e2c",
+      "time": "2026-10-27T18:21:00+08:00",
+      "count": 30
+    }
+  ],
+  "failures": [
+    {
+      "url": "https://raw.githubusercontent.com/Memory455/TrendRadar3/master/output/2026%E5%B9%B410%E6%9C%8817%E6%97%A5/txt/04%E6%97%B646%E5%88%86.txt",
+      "error": "HTTPSConnectionPool(host='raw.githubusercontent.com', port=443): Max retries exceeded with url: /Memory455/TrendRadar3/master/output/2026%E5%B9%B410%E6%9C%8817%E6%97%A5/txt/04%E6%97%B646%E5%88%86.txt (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1032)')))"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/bobkingdom/TrendRadar/master/output/2026%E5%B9%B410%E6%9C%8802%E6%97%A5/txt/08%E6%97%B628%E5%88%86.txt",
+      "error": "HTTPSConnectionPool(host='raw.githubusercontent.com', port=443): Max retries exceeded with url: /bobkingdom/TrendRadar/master/output/2026%E5%B9%B410%E6%9C%8802%E6%97%A5/txt/08%E6%97%B628%E5%88%86.txt (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1032)')))"
+    }
+  ]
+}
